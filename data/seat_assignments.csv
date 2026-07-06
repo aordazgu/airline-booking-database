@@ -1,0 +1,1001 @@
+seat_assignment_id,booking_flight_id,seat_number,cabin_class,seat_fee
+1,1,34B,Economy,0.00
+2,2,16B,Economy,0.00
+3,3,15E,Economy,0.00
+4,4,23D,Economy,0.00
+5,4,23E,Economy,0.00
+6,4,14E,Economy,0.00
+7,5,27A,Economy,0.00
+8,6,10E,Economy,0.00
+9,7,28A,Economy,0.00
+10,7,23C,Economy,0.00
+11,7,27C,Economy,0.00
+12,8,31B,Business,175.00
+13,8,10B,Business,175.00
+14,9,34F,Economy,0.00
+15,10,6A,Economy,0.00
+16,10,14C,Economy,0.00
+17,11,32C,Economy,0.00
+18,12,27B,"Economy Plus",35.00
+19,12,8C,"Economy Plus",35.00
+20,13,25F,Economy,0.00
+21,14,15A,Economy,0.00
+22,15,9A,Economy,0.00
+23,16,24A,Economy,0.00
+24,16,12B,Economy,0.00
+25,17,7B,Economy,0.00
+26,18,17B,"Economy Plus",35.00
+27,19,9A,Economy,0.00
+28,19,5E,Economy,0.00
+29,19,18F,Economy,0.00
+30,20,11B,Economy,0.00
+31,20,27D,Economy,0.00
+32,20,32B,Economy,0.00
+33,21,7A,Economy,0.00
+34,22,17A,Business,175.00
+35,23,30D,Economy,0.00
+36,24,22F,Economy,0.00
+37,25,13A,Economy,0.00
+38,25,11F,Economy,0.00
+39,26,23F,"Economy Plus",35.00
+40,27,29D,Economy,0.00
+41,27,34A,Economy,0.00
+42,27,7B,Economy,0.00
+43,28,24F,Economy,0.00
+44,29,36E,Economy,0.00
+45,30,6F,Economy,0.00
+46,31,24A,"Economy Plus",25.00
+47,32,29C,Business,175.00
+48,33,24C,Economy,0.00
+49,34,11E,"Economy Plus",25.00
+50,35,24D,Economy,0.00
+51,36,18F,Economy,0.00
+52,37,24D,Economy,0.00
+53,37,31C,Economy,0.00
+54,38,23F,"Economy Plus",45.00
+55,38,15C,"Economy Plus",45.00
+56,39,7B,Economy,0.00
+57,40,6A,Economy,0.00
+58,41,37A,Economy,0.00
+59,42,36A,"Economy Plus",45.00
+60,43,11B,Economy,0.00
+61,43,18C,Economy,0.00
+62,44,28D,Business,120.00
+63,45,28F,Economy,0.00
+64,46,30C,Economy,0.00
+65,47,7C,Economy,0.00
+66,48,31C,Economy,0.00
+67,48,32A,Economy,0.00
+68,49,13A,Economy,0.00
+69,49,30B,Economy,0.00
+70,50,31C,Economy,0.00
+71,51,6A,"Economy Plus",35.00
+72,51,19A,"Economy Plus",35.00
+73,52,32D,Economy,0.00
+74,53,17D,Business,175.00
+75,54,5D,Economy,0.00
+76,54,13C,Economy,0.00
+77,55,21A,Economy,0.00
+78,55,11E,Economy,0.00
+79,55,8A,Economy,0.00
+80,56,7E,Economy,0.00
+81,57,25F,Economy,0.00
+82,58,32B,Economy,0.00
+83,58,25F,Economy,0.00
+84,59,36A,Economy,0.00
+85,60,15F,Economy,0.00
+86,61,36F,Economy,0.00
+87,61,11C,Economy,0.00
+88,62,11C,Economy,0.00
+89,63,7F,Economy,0.00
+90,64,16B,Economy,0.00
+91,64,30A,Economy,0.00
+92,65,14A,Economy,0.00
+93,66,22E,"Economy Plus",60.00
+94,67,32A,Economy,0.00
+95,68,34D,Economy,0.00
+96,68,10D,Economy,0.00
+97,68,24B,Economy,0.00
+98,69,21C,Economy,0.00
+99,70,25E,"Economy Plus",45.00
+100,71,11D,Economy,0.00
+101,72,36C,Economy,0.00
+102,73,14F,Economy,0.00
+103,74,6D,Business,175.00
+104,75,23A,Business,175.00
+105,76,36B,Economy,0.00
+106,77,27D,Economy,0.00
+107,78,34B,Economy,0.00
+108,79,23F,Economy,0.00
+109,79,10F,Economy,0.00
+110,80,21C,Business,175.00
+111,80,15B,Business,175.00
+112,80,37A,Business,175.00
+113,81,22B,Economy,0.00
+114,82,7E,"Economy Plus",25.00
+115,82,11B,"Economy Plus",25.00
+116,82,12B,"Economy Plus",25.00
+117,83,11B,Economy,0.00
+118,83,28C,Economy,0.00
+119,84,31C,Economy,0.00
+120,85,5F,Economy,0.00
+121,86,8F,Economy,0.00
+122,87,30F,Business,175.00
+123,87,24F,Business,175.00
+124,87,25C,Business,175.00
+125,87,5C,Business,175.00
+126,88,27F,Economy,0.00
+127,88,30B,Economy,0.00
+128,89,15A,Economy,0.00
+129,90,27A,Economy,0.00
+130,90,8F,Economy,0.00
+131,90,12D,Economy,0.00
+132,90,24E,Economy,0.00
+133,91,19C,Economy,0.00
+134,92,32D,Economy,0.00
+135,93,32D,Economy,0.00
+136,94,38A,Economy,0.00
+137,95,12C,Economy,0.00
+138,96,31A,Economy,0.00
+139,97,26D,Economy,0.00
+140,98,31D,Economy,0.00
+141,99,24E,Economy,0.00
+142,99,12F,Economy,0.00
+143,100,16A,Economy,0.00
+144,101,32B,Economy,0.00
+145,102,14C,Economy,0.00
+146,102,31F,Economy,0.00
+147,102,15A,Economy,0.00
+148,103,20E,Economy,0.00
+149,104,6D,Economy,0.00
+150,105,37B,Economy,0.00
+151,105,14C,Economy,0.00
+152,106,34E,Economy,0.00
+153,107,9C,Economy,0.00
+154,107,10D,Economy,0.00
+155,108,33C,Business,225.00
+156,109,13F,Economy,0.00
+157,110,6F,"Economy Plus",25.00
+158,111,28B,Economy,0.00
+159,111,33A,Economy,0.00
+160,112,7C,Business,175.00
+161,113,13F,Economy,0.00
+162,113,9B,Economy,0.00
+163,114,21F,"Economy Plus",25.00
+164,115,7F,Economy,0.00
+165,116,17C,Economy,0.00
+166,117,11A,Economy,0.00
+167,117,35D,Economy,0.00
+168,117,6E,Economy,0.00
+169,118,33E,Economy,0.00
+170,118,12A,Economy,0.00
+171,119,8E,Economy,0.00
+172,120,29D,Economy,0.00
+173,121,17E,Economy,0.00
+174,122,13A,Economy,0.00
+175,123,23C,Economy,0.00
+176,124,20E,Economy,0.00
+177,124,8D,Economy,0.00
+178,124,27B,Economy,0.00
+179,125,24D,Business,225.00
+180,126,18B,Economy,0.00
+181,126,35F,Economy,0.00
+182,127,30B,Economy,0.00
+183,127,5C,Economy,0.00
+184,128,6B,Economy,0.00
+185,129,13D,"Economy Plus",25.00
+186,129,12C,"Economy Plus",25.00
+187,130,12B,"Economy Plus",25.00
+188,130,13B,"Economy Plus",25.00
+189,130,17E,"Economy Plus",25.00
+190,131,14C,Economy,0.00
+191,131,20A,Economy,0.00
+192,132,29F,Economy,0.00
+193,132,37C,Economy,0.00
+194,133,17D,Economy,0.00
+195,134,10C,Economy,0.00
+196,134,33E,Economy,0.00
+197,134,27B,Economy,0.00
+198,135,33B,Economy,0.00
+199,136,9C,Economy,0.00
+200,137,13F,Economy,0.00
+201,137,21A,Economy,0.00
+202,138,18D,Economy,0.00
+203,138,19E,Economy,0.00
+204,139,18D,Economy,0.00
+205,140,30F,Economy,0.00
+206,141,26E,Economy,0.00
+207,142,24A,Economy,0.00
+208,143,9D,Economy,0.00
+209,144,12B,Economy,0.00
+210,145,15E,Economy,0.00
+211,145,24E,Economy,0.00
+212,146,9D,Business,175.00
+213,147,24D,Economy,0.00
+214,148,34D,"Economy Plus",60.00
+215,149,18D,Economy,0.00
+216,150,34D,Economy,0.00
+217,151,34A,Economy,0.00
+218,152,12E,Economy,0.00
+219,152,30B,Economy,0.00
+220,153,29F,"Economy Plus",25.00
+221,154,5C,Economy,0.00
+222,154,17F,Economy,0.00
+223,154,9B,Economy,0.00
+224,155,32A,"Economy Plus",60.00
+225,156,18D,Economy,0.00
+226,157,29F,Business,225.00
+227,158,37F,Economy,0.00
+228,159,6E,Economy,0.00
+229,159,12C,Economy,0.00
+230,160,26B,"Economy Plus",60.00
+231,161,19E,"Economy Plus",35.00
+232,162,17A,"Economy Plus",25.00
+233,162,14B,"Economy Plus",25.00
+234,163,20C,Economy,0.00
+235,164,35A,Economy,0.00
+236,165,29D,Economy,0.00
+237,165,10C,Economy,0.00
+238,166,26B,Economy,0.00
+239,167,29D,Business,175.00
+240,167,24F,Business,175.00
+241,168,27E,Economy,0.00
+242,169,34F,Economy,0.00
+243,170,15A,Economy,0.00
+244,171,37E,Economy,0.00
+245,172,18F,"Economy Plus",45.00
+246,173,28B,Economy,0.00
+247,173,13B,Economy,0.00
+248,174,31D,Economy,0.00
+249,175,11A,Economy,0.00
+250,176,26E,Economy,0.00
+251,177,34F,"Economy Plus",25.00
+252,178,31F,Economy,0.00
+253,179,36D,Economy,0.00
+254,179,10C,Economy,0.00
+255,179,32D,Economy,0.00
+256,180,7B,Economy,0.00
+257,180,36A,Economy,0.00
+258,181,6B,Economy,0.00
+259,182,10F,"Economy Plus",60.00
+260,182,26B,"Economy Plus",60.00
+261,182,9F,"Economy Plus",60.00
+262,183,17F,Economy,0.00
+263,183,12E,Economy,0.00
+264,184,28F,Economy,0.00
+265,185,14E,Economy,0.00
+266,186,18D,Economy,0.00
+267,187,36F,Economy,0.00
+268,188,23C,Economy,0.00
+269,189,15E,Economy,0.00
+270,189,13D,Economy,0.00
+271,190,14D,Economy,0.00
+272,190,32F,Economy,0.00
+273,191,30B,Economy,0.00
+274,192,34F,"Economy Plus",25.00
+275,193,35C,Economy,0.00
+276,194,30E,"Economy Plus",25.00
+277,195,18F,Economy,0.00
+278,195,12B,Economy,0.00
+279,196,12E,Economy,0.00
+280,197,36F,Economy,0.00
+281,198,37B,Economy,0.00
+282,199,32A,Economy,0.00
+283,199,21C,Economy,0.00
+284,200,17F,Business,225.00
+285,200,28E,Business,225.00
+286,200,37E,Business,225.00
+287,201,31A,Economy,0.00
+288,202,11A,Economy,0.00
+289,203,11A,Economy,0.00
+290,204,37F,Economy,0.00
+291,205,16D,Economy,0.00
+292,206,25A,Economy,0.00
+293,207,32F,"Economy Plus",25.00
+294,208,32F,Economy,0.00
+295,209,38F,Economy,0.00
+296,210,36D,Business,175.00
+297,210,15C,Business,175.00
+298,211,34E,"Economy Plus",25.00
+299,212,11A,Economy,0.00
+300,212,27F,Economy,0.00
+301,213,21B,Economy,0.00
+302,214,27F,Economy,0.00
+303,215,17C,Economy,0.00
+304,216,36E,Economy,0.00
+305,216,36F,Economy,0.00
+306,216,13C,Economy,0.00
+307,217,11A,Economy,0.00
+308,217,13B,Economy,0.00
+309,218,37B,Economy,0.00
+310,219,32B,Business,120.00
+311,220,17A,Economy,0.00
+312,221,22C,Economy,0.00
+313,222,11D,Economy,0.00
+314,223,5F,Economy,0.00
+315,224,12A,"Economy Plus",35.00
+316,225,17D,Economy,0.00
+317,226,13C,Economy,0.00
+318,226,7E,Economy,0.00
+319,227,37A,Economy,0.00
+320,228,5E,Economy,0.00
+321,229,14C,Economy,0.00
+322,230,20B,Economy,0.00
+323,230,12A,Economy,0.00
+324,230,27F,Economy,0.00
+325,231,22B,"Economy Plus",35.00
+326,232,29F,"Economy Plus",25.00
+327,233,33B,Economy,0.00
+328,234,6C,Economy,0.00
+329,235,38B,Business,120.00
+330,236,5A,Economy,0.00
+331,236,11E,Economy,0.00
+332,237,22F,Economy,0.00
+333,237,12A,Economy,0.00
+334,238,23B,Economy,0.00
+335,239,12D,Economy,0.00
+336,239,15A,Economy,0.00
+337,239,19A,Economy,0.00
+338,240,24E,Economy,0.00
+339,241,5B,"Economy Plus",25.00
+340,241,14C,"Economy Plus",25.00
+341,242,27C,Economy,0.00
+342,242,36D,Economy,0.00
+343,242,35F,Economy,0.00
+344,243,31E,Economy,0.00
+345,244,20C,Economy,0.00
+346,245,31B,Economy,0.00
+347,245,18B,Economy,0.00
+348,245,8F,Economy,0.00
+349,246,15A,Economy,0.00
+350,247,24D,Economy,0.00
+351,248,34E,Economy,0.00
+352,249,30E,Economy,0.00
+353,249,8B,Economy,0.00
+354,249,30B,Economy,0.00
+355,250,17C,Economy,0.00
+356,251,17F,Economy,0.00
+357,252,35A,Economy,0.00
+358,252,8C,Economy,0.00
+359,252,10C,Economy,0.00
+360,253,11C,Economy,0.00
+361,253,31F,Economy,0.00
+362,254,15E,"Economy Plus",35.00
+363,255,29B,Economy,0.00
+364,256,10D,Economy,0.00
+365,257,35C,Economy,0.00
+366,258,33C,"Economy Plus",35.00
+367,258,37E,"Economy Plus",35.00
+368,259,5B,Economy,0.00
+369,260,16F,Economy,0.00
+370,260,11D,Economy,0.00
+371,261,18F,Business,175.00
+372,261,35A,Business,175.00
+373,262,28D,Economy,0.00
+374,263,33D,Economy,0.00
+375,264,26C,"Economy Plus",60.00
+376,265,5E,Economy,0.00
+377,265,17A,Economy,0.00
+378,265,14C,Economy,0.00
+379,266,33F,"Economy Plus",35.00
+380,267,15E,Economy,0.00
+381,267,29B,Economy,0.00
+382,267,27B,Economy,0.00
+383,268,34D,Economy,0.00
+384,268,31C,Economy,0.00
+385,269,32D,Economy,0.00
+386,270,31A,Economy,0.00
+387,270,36F,Economy,0.00
+388,271,31B,Economy,0.00
+389,271,19D,Economy,0.00
+390,272,5C,Economy,0.00
+391,273,20A,"Economy Plus",60.00
+392,273,31A,"Economy Plus",60.00
+393,274,30B,Economy,0.00
+394,275,25E,Economy,0.00
+395,275,15D,Economy,0.00
+396,275,19A,Economy,0.00
+397,276,5F,Economy,0.00
+398,276,14A,Economy,0.00
+399,277,19C,Economy,0.00
+400,277,17E,Economy,0.00
+401,277,20F,Economy,0.00
+402,277,29C,Economy,0.00
+403,278,14C,Economy,0.00
+404,278,21B,Economy,0.00
+405,279,29C,Economy,0.00
+406,280,26C,Economy,0.00
+407,281,28A,Economy,0.00
+408,281,18A,Economy,0.00
+409,281,25B,Economy,0.00
+410,282,30B,Economy,0.00
+411,283,33D,Economy,0.00
+412,284,23E,Economy,0.00
+413,284,38C,Economy,0.00
+414,285,25A,Economy,0.00
+415,286,18E,Economy,0.00
+416,286,18A,Economy,0.00
+417,287,22D,Economy,0.00
+418,288,34C,"Economy Plus",25.00
+419,289,22C,Economy,0.00
+420,290,6B,"Economy Plus",25.00
+421,291,5F,Economy,0.00
+422,292,24A,Economy,0.00
+423,292,21C,Economy,0.00
+424,293,33F,Business,175.00
+425,293,12E,Business,175.00
+426,294,20F,Economy,0.00
+427,295,36A,Economy,0.00
+428,296,25C,Economy,0.00
+429,297,30B,"Economy Plus",35.00
+430,298,34B,Economy,0.00
+431,299,10C,Economy,0.00
+432,300,17D,Economy,0.00
+433,301,8A,Economy,0.00
+434,302,36B,"Economy Plus",45.00
+435,303,24F,Economy,0.00
+436,304,21A,Economy,0.00
+437,305,14A,"Economy Plus",35.00
+438,305,11C,"Economy Plus",35.00
+439,306,26E,Economy,0.00
+440,307,32C,Economy,0.00
+441,307,18F,Economy,0.00
+442,308,31C,Economy,0.00
+443,308,24B,Economy,0.00
+444,308,7E,Economy,0.00
+445,308,38F,Economy,0.00
+446,309,5D,Economy,0.00
+447,310,18C,Economy,0.00
+448,311,10F,"Economy Plus",35.00
+449,312,11C,Economy,0.00
+450,313,17C,"Economy Plus",35.00
+451,313,13D,"Economy Plus",35.00
+452,313,17C,"Economy Plus",35.00
+453,314,37F,Economy,0.00
+454,315,24B,Economy,0.00
+455,316,8A,"Economy Plus",60.00
+456,316,8C,"Economy Plus",60.00
+457,317,26A,Economy,0.00
+458,317,12F,Economy,0.00
+459,318,5D,Economy,0.00
+460,318,17A,Economy,0.00
+461,319,35B,Economy,0.00
+462,320,17D,Economy,0.00
+463,321,23D,Economy,0.00
+464,322,34C,Economy,0.00
+465,323,26D,Economy,0.00
+466,323,13C,Economy,0.00
+467,324,25E,Economy,0.00
+468,324,27E,Economy,0.00
+469,324,30A,Economy,0.00
+470,325,35C,Economy,0.00
+471,326,28E,Economy,0.00
+472,326,6B,Economy,0.00
+473,326,25A,Economy,0.00
+474,327,15D,Economy,0.00
+475,328,38D,Economy,0.00
+476,329,13E,Economy,0.00
+477,329,24A,Economy,0.00
+478,330,27A,Economy,0.00
+479,330,15C,Economy,0.00
+480,331,35C,Economy,0.00
+481,332,13B,"Economy Plus",25.00
+482,333,9D,Economy,0.00
+483,333,10E,Economy,0.00
+484,334,17E,"Economy Plus",25.00
+485,335,28C,Economy,0.00
+486,336,5F,"Economy Plus",25.00
+487,337,30D,Business,120.00
+488,338,24C,"Economy Plus",60.00
+489,339,22C,Economy,0.00
+490,339,37A,Economy,0.00
+491,340,24F,Economy,0.00
+492,341,12A,Economy,0.00
+493,341,36A,Economy,0.00
+494,341,22C,Economy,0.00
+495,342,32E,Economy,0.00
+496,343,21E,"Economy Plus",45.00
+497,344,34D,"Economy Plus",45.00
+498,344,38C,"Economy Plus",45.00
+499,345,22C,Economy,0.00
+500,346,7C,Economy,0.00
+501,346,35F,Economy,0.00
+502,347,19F,"Economy Plus",35.00
+503,348,19A,Economy,0.00
+504,349,9B,Economy,0.00
+505,350,9F,Economy,0.00
+506,351,7C,Economy,0.00
+507,351,14E,Economy,0.00
+508,351,6A,Economy,0.00
+509,352,7F,Economy,0.00
+510,352,14D,Economy,0.00
+511,353,12E,Economy,0.00
+512,353,8E,Economy,0.00
+513,353,35F,Economy,0.00
+514,353,38E,Economy,0.00
+515,354,20C,Economy,0.00
+516,355,9C,Economy,0.00
+517,356,31F,Economy,0.00
+518,356,13E,Economy,0.00
+519,357,16D,Economy,0.00
+520,357,5B,Economy,0.00
+521,357,12D,Economy,0.00
+522,357,21E,Economy,0.00
+523,358,30F,Economy,0.00
+524,359,33D,Economy,0.00
+525,359,33F,Economy,0.00
+526,359,32C,Economy,0.00
+527,359,35F,Economy,0.00
+528,360,14A,"Economy Plus",25.00
+529,361,36C,Economy,0.00
+530,361,8E,Economy,0.00
+531,362,18D,Economy,0.00
+532,363,11B,"Economy Plus",45.00
+533,364,17A,Economy,0.00
+534,365,38B,Economy,0.00
+535,366,12C,Economy,0.00
+536,366,10F,Economy,0.00
+537,367,37F,Economy,0.00
+538,367,9F,Economy,0.00
+539,368,5B,Economy,0.00
+540,369,21D,Economy,0.00
+541,370,36E,Economy,0.00
+542,371,36D,"Economy Plus",45.00
+543,372,33C,Economy,0.00
+544,373,20A,Economy,0.00
+545,374,33D,Economy,0.00
+546,375,12E,Economy,0.00
+547,376,9F,Economy,0.00
+548,377,31B,"Economy Plus",45.00
+549,377,20A,"Economy Plus",45.00
+550,378,30D,Economy,0.00
+551,379,30B,Economy,0.00
+552,380,30B,Economy,0.00
+553,381,10B,Economy,0.00
+554,382,11D,Economy,0.00
+555,383,15B,Economy,0.00
+556,384,36C,Economy,0.00
+557,385,25F,Economy,0.00
+558,386,12B,Economy,0.00
+559,387,38D,Economy,0.00
+560,388,15B,Economy,0.00
+561,389,35A,Economy,0.00
+562,390,17F,Economy,0.00
+563,391,5B,Economy,0.00
+564,392,14A,Economy,0.00
+565,392,18C,Economy,0.00
+566,392,16C,Economy,0.00
+567,393,35B,Business,225.00
+568,394,33D,Economy,0.00
+569,395,10E,Economy,0.00
+570,396,32F,Economy,0.00
+571,397,18E,Economy,0.00
+572,398,28C,Economy,0.00
+573,399,8E,Economy,0.00
+574,400,10D,"Economy Plus",35.00
+575,400,12A,"Economy Plus",35.00
+576,401,38A,"Economy Plus",45.00
+577,402,31B,Economy,0.00
+578,402,5C,Economy,0.00
+579,403,10B,Economy,0.00
+580,404,13C,"Economy Plus",35.00
+581,405,17C,Economy,0.00
+582,406,15A,Economy,0.00
+583,407,18C,Economy,0.00
+584,408,16D,Economy,0.00
+585,409,26C,Economy,0.00
+586,410,32F,Economy,0.00
+587,410,30D,Economy,0.00
+588,411,37A,Economy,0.00
+589,412,26A,Economy,0.00
+590,413,16B,Economy,0.00
+591,414,34F,"Economy Plus",60.00
+592,415,30E,Economy,0.00
+593,415,9C,Economy,0.00
+594,416,16B,Economy,0.00
+595,417,32A,Economy,0.00
+596,417,26D,Economy,0.00
+597,418,11D,Economy,0.00
+598,419,30D,Economy,0.00
+599,420,12B,"Economy Plus",45.00
+600,421,34D,Economy,0.00
+601,422,6E,Economy,0.00
+602,423,10E,Economy,0.00
+603,424,7A,"Economy Plus",60.00
+604,425,16F,Economy,0.00
+605,426,35B,Economy,0.00
+606,427,22C,Economy,0.00
+607,428,34E,Economy,0.00
+608,429,15F,Economy,0.00
+609,430,10F,Economy,0.00
+610,431,15E,Economy,0.00
+611,432,23E,Economy,0.00
+612,433,16B,Economy,0.00
+613,434,30D,Economy,0.00
+614,435,11D,Economy,0.00
+615,436,13E,Economy,0.00
+616,437,29E,Business,120.00
+617,438,20B,Economy,0.00
+618,439,34E,Business,120.00
+619,440,20D,"Economy Plus",35.00
+620,441,6D,"Economy Plus",25.00
+621,441,35F,"Economy Plus",25.00
+622,441,8C,"Economy Plus",25.00
+623,441,30F,"Economy Plus",25.00
+624,442,12F,Economy,0.00
+625,443,36B,Economy,0.00
+626,444,23A,Economy,0.00
+627,445,14F,Economy,0.00
+628,446,37F,Economy,0.00
+629,447,15E,Economy,0.00
+630,448,34E,Economy,0.00
+631,449,17C,"Economy Plus",35.00
+632,449,7D,"Economy Plus",35.00
+633,450,20B,Economy,0.00
+634,450,21F,Economy,0.00
+635,451,38C,"Economy Plus",35.00
+636,452,34A,Economy,0.00
+637,453,24E,Economy,0.00
+638,454,31E,Business,175.00
+639,455,22F,Economy,0.00
+640,455,37C,Economy,0.00
+641,455,33A,Economy,0.00
+642,456,26F,"Economy Plus",60.00
+643,457,18E,Economy,0.00
+644,458,22B,Economy,0.00
+645,458,21D,Economy,0.00
+646,459,30A,Economy,0.00
+647,460,28A,Economy,0.00
+648,460,25D,Economy,0.00
+649,461,7F,"Economy Plus",60.00
+650,461,29F,"Economy Plus",60.00
+651,462,35B,"Economy Plus",25.00
+652,463,13A,Economy,0.00
+653,464,21C,Economy,0.00
+654,465,7E,Economy,0.00
+655,465,25E,Economy,0.00
+656,466,34E,Economy,0.00
+657,467,26A,Economy,0.00
+658,468,25D,Economy,0.00
+659,468,14C,Economy,0.00
+660,469,18C,Economy,0.00
+661,469,16A,Economy,0.00
+662,470,32C,Economy,0.00
+663,471,33D,Economy,0.00
+664,471,17B,Economy,0.00
+665,472,18A,Economy,0.00
+666,472,36F,Economy,0.00
+667,473,29D,Economy,0.00
+668,473,30A,Economy,0.00
+669,474,6C,"Economy Plus",60.00
+670,475,8E,Economy,0.00
+671,476,28A,"Economy Plus",35.00
+672,476,15A,"Economy Plus",35.00
+673,476,36B,"Economy Plus",35.00
+674,477,14D,Economy,0.00
+675,478,35D,Economy,0.00
+676,478,31E,Economy,0.00
+677,479,17B,Economy,0.00
+678,480,21B,Economy,0.00
+679,481,28F,Economy,0.00
+680,481,14E,Economy,0.00
+681,481,7F,Economy,0.00
+682,481,29F,Economy,0.00
+683,482,27B,Economy,0.00
+684,483,21C,Business,120.00
+685,484,34A,Economy,0.00
+686,485,14F,"Economy Plus",35.00
+687,486,19F,Economy,0.00
+688,486,38B,Economy,0.00
+689,487,30C,Economy,0.00
+690,488,24A,Economy,0.00
+691,489,15F,Economy,0.00
+692,490,14B,Economy,0.00
+693,490,33B,Economy,0.00
+694,490,22C,Economy,0.00
+695,491,34B,Economy,0.00
+696,492,23B,"Economy Plus",60.00
+697,493,22C,Economy,0.00
+698,494,27A,Economy,0.00
+699,495,29E,Economy,0.00
+700,496,31D,Economy,0.00
+701,497,32F,Economy,0.00
+702,498,27F,"Economy Plus",45.00
+703,498,27C,"Economy Plus",45.00
+704,498,20C,"Economy Plus",45.00
+705,499,25F,Economy,0.00
+706,500,24A,Economy,0.00
+707,501,17C,Economy,0.00
+708,501,36C,Economy,0.00
+709,502,23E,Economy,0.00
+710,503,10F,Economy,0.00
+711,504,19D,Economy,0.00
+712,505,18B,Economy,0.00
+713,506,38E,Economy,0.00
+714,507,9F,Economy,0.00
+715,507,13C,Economy,0.00
+716,508,19D,Economy,0.00
+717,509,14A,"Economy Plus",60.00
+718,510,24E,Economy,0.00
+719,511,25A,Economy,0.00
+720,512,20E,Economy,0.00
+721,513,31D,Economy,0.00
+722,513,35B,Economy,0.00
+723,513,26B,Economy,0.00
+724,514,11E,Economy,0.00
+725,515,5E,Economy,0.00
+726,516,36B,Economy,0.00
+727,517,16E,Economy,0.00
+728,518,15A,Economy,0.00
+729,518,36B,Economy,0.00
+730,518,14E,Economy,0.00
+731,519,29D,Economy,0.00
+732,519,12F,Economy,0.00
+733,520,25E,"Economy Plus",25.00
+734,521,32D,Economy,0.00
+735,522,7B,Economy,0.00
+736,523,27E,Economy,0.00
+737,524,9F,"Economy Plus",45.00
+738,525,20F,Economy,0.00
+739,526,24B,"Economy Plus",60.00
+740,527,5D,Economy,0.00
+741,527,31D,Economy,0.00
+742,527,22B,Economy,0.00
+743,528,36A,Economy,0.00
+744,529,12D,Economy,0.00
+745,530,9B,Economy,0.00
+746,531,25A,Economy,0.00
+747,532,19B,"Economy Plus",25.00
+748,533,33A,Economy,0.00
+749,534,25C,Economy,0.00
+750,535,19F,Economy,0.00
+751,536,20F,Economy,0.00
+752,537,35B,Economy,0.00
+753,538,32C,Economy,0.00
+754,538,14A,Economy,0.00
+755,538,34D,Economy,0.00
+756,539,33D,Economy,0.00
+757,540,28F,"Economy Plus",60.00
+758,541,8B,Economy,0.00
+759,542,14F,Economy,0.00
+760,542,30E,Economy,0.00
+761,542,17B,Economy,0.00
+762,543,36C,Economy,0.00
+763,544,10C,Economy,0.00
+764,545,26F,"Economy Plus",60.00
+765,546,20A,Economy,0.00
+766,547,29D,"Economy Plus",60.00
+767,548,9B,Business,175.00
+768,549,27E,"Economy Plus",25.00
+769,549,36A,"Economy Plus",25.00
+770,549,31B,"Economy Plus",25.00
+771,550,32C,Economy,0.00
+772,551,6C,Economy,0.00
+773,552,31F,"Economy Plus",60.00
+774,553,6B,"Economy Plus",25.00
+775,554,14E,"Economy Plus",25.00
+776,554,34F,"Economy Plus",25.00
+777,555,10D,Economy,0.00
+778,556,5A,Economy,0.00
+779,557,19B,Economy,0.00
+780,558,15A,Economy,0.00
+781,559,10C,Economy,0.00
+782,560,25E,Economy,0.00
+783,561,34D,"Economy Plus",60.00
+784,562,28A,Economy,0.00
+785,562,32F,Economy,0.00
+786,563,22B,Economy,0.00
+787,564,25F,Economy,0.00
+788,564,35E,Economy,0.00
+789,564,23B,Economy,0.00
+790,565,5C,Economy,0.00
+791,566,35A,Economy,0.00
+792,567,26F,Economy,0.00
+793,568,36E,"Economy Plus",35.00
+794,569,17C,Economy,0.00
+795,570,25E,Business,175.00
+796,571,37C,Economy,0.00
+797,572,34B,Economy,0.00
+798,573,13C,Economy,0.00
+799,573,6A,Economy,0.00
+800,573,8C,Economy,0.00
+801,574,7F,Economy,0.00
+802,575,10C,"Economy Plus",35.00
+803,576,14E,Economy,0.00
+804,577,19D,Economy,0.00
+805,578,25D,Economy,0.00
+806,579,36A,Economy,0.00
+807,580,22E,Economy,0.00
+808,581,21C,Economy,0.00
+809,582,30B,Economy,0.00
+810,583,24C,"Economy Plus",35.00
+811,584,29F,Economy,0.00
+812,585,36D,Economy,0.00
+813,586,24D,"Economy Plus",25.00
+814,586,29F,"Economy Plus",25.00
+815,587,12C,Economy,0.00
+816,587,14C,Economy,0.00
+817,588,35A,Economy,0.00
+818,589,32D,Economy,0.00
+819,589,31B,Economy,0.00
+820,590,33A,Economy,0.00
+821,591,19F,"Economy Plus",60.00
+822,591,8C,"Economy Plus",60.00
+823,591,28A,"Economy Plus",60.00
+824,591,28D,"Economy Plus",60.00
+825,592,30C,Economy,0.00
+826,593,21B,Economy,0.00
+827,594,26E,Business,120.00
+828,594,15E,Business,120.00
+829,595,19F,"Economy Plus",35.00
+830,595,26D,"Economy Plus",35.00
+831,595,12C,"Economy Plus",35.00
+832,595,28E,"Economy Plus",35.00
+833,596,5E,"Economy Plus",35.00
+834,597,6A,Business,120.00
+835,598,24C,Economy,0.00
+836,599,25C,Business,175.00
+837,600,6D,"Economy Plus",60.00
+838,600,7D,"Economy Plus",60.00
+839,601,33B,Economy,0.00
+840,602,29E,Economy,0.00
+841,602,8C,Economy,0.00
+842,602,12F,Economy,0.00
+843,603,17D,Business,120.00
+844,604,33F,Economy,0.00
+845,604,12A,Economy,0.00
+846,605,11D,Economy,0.00
+847,606,37B,Economy,0.00
+848,607,16E,Economy,0.00
+849,608,22E,Economy,0.00
+850,608,38A,Economy,0.00
+851,609,9B,Economy,0.00
+852,610,31F,Economy,0.00
+853,611,19F,Economy,0.00
+854,611,13D,Economy,0.00
+855,612,31A,Economy,0.00
+856,613,25C,"Economy Plus",45.00
+857,614,38E,Business,225.00
+858,615,19C,Economy,0.00
+859,616,13F,Economy,0.00
+860,617,26B,Economy,0.00
+861,617,36C,Economy,0.00
+862,618,17C,Economy,0.00
+863,619,36E,Economy,0.00
+864,620,22B,Economy,0.00
+865,621,20B,Economy,0.00
+866,622,18E,"Economy Plus",60.00
+867,623,20D,Economy,0.00
+868,624,11A,Economy,0.00
+869,625,22B,Economy,0.00
+870,626,9E,Economy,0.00
+871,627,35A,Economy,0.00
+872,628,32C,"Economy Plus",25.00
+873,629,17A,Economy,0.00
+874,630,23B,Economy,0.00
+875,631,24B,Economy,0.00
+876,631,38A,Economy,0.00
+877,632,17E,Economy,0.00
+878,633,14E,Economy,0.00
+879,634,8D,Economy,0.00
+880,635,7A,Economy,0.00
+881,636,38C,Economy,0.00
+882,637,28C,Economy,0.00
+883,638,13F,Economy,0.00
+884,639,18D,Economy,0.00
+885,640,23C,Economy,0.00
+886,641,11B,Economy,0.00
+887,642,30C,Economy,0.00
+888,642,34C,Economy,0.00
+889,643,29C,Business,120.00
+890,643,33F,Business,120.00
+891,644,17D,Economy,0.00
+892,645,34B,"Economy Plus",35.00
+893,646,28D,Economy,0.00
+894,646,21E,Economy,0.00
+895,646,26F,Economy,0.00
+896,647,26E,Economy,0.00
+897,647,24D,Economy,0.00
+898,648,11B,"Economy Plus",45.00
+899,648,19B,"Economy Plus",45.00
+900,648,20D,"Economy Plus",45.00
+901,649,25A,"Economy Plus",25.00
+902,650,18D,"Economy Plus",60.00
+903,651,10F,Economy,0.00
+904,652,27F,Business,175.00
+905,652,10A,Business,175.00
+906,652,15C,Business,175.00
+907,652,26A,Business,175.00
+908,653,38A,Economy,0.00
+909,653,23B,Economy,0.00
+910,654,23A,Economy,0.00
+911,655,20C,"Economy Plus",60.00
+912,655,25B,"Economy Plus",60.00
+913,655,20D,"Economy Plus",60.00
+914,656,26F,Economy,0.00
+915,656,25E,Economy,0.00
+916,656,20F,Economy,0.00
+917,656,35D,Economy,0.00
+918,657,24F,Economy,0.00
+919,658,16D,Economy,0.00
+920,659,5B,"Economy Plus",35.00
+921,660,16D,Business,120.00
+922,660,7A,Business,120.00
+923,661,14C,Economy,0.00
+924,662,23E,Economy,0.00
+925,663,25E,"Economy Plus",35.00
+926,664,20D,Business,175.00
+927,665,24E,Economy,0.00
+928,666,26B,Economy,0.00
+929,666,17A,Economy,0.00
+930,667,32B,Economy,0.00
+931,668,9A,Economy,0.00
+932,668,14A,Economy,0.00
+933,669,37A,Economy,0.00
+934,670,10A,Economy,0.00
+935,671,29D,Economy,0.00
+936,672,34D,Economy,0.00
+937,672,25F,Economy,0.00
+938,673,31F,Economy,0.00
+939,674,7F,Economy,0.00
+940,674,25B,Economy,0.00
+941,675,21D,"Economy Plus",35.00
+942,676,10B,Economy,0.00
+943,677,11C,Economy,0.00
+944,677,26C,Economy,0.00
+945,677,12B,Economy,0.00
+946,678,24A,"Economy Plus",45.00
+947,678,30A,"Economy Plus",45.00
+948,679,13A,Economy,0.00
+949,680,16F,Economy,0.00
+950,681,31A,Economy,0.00
+951,682,27B,"Economy Plus",45.00
+952,683,12D,Economy,0.00
+953,684,7F,Business,225.00
+954,685,11C,Economy,0.00
+955,686,33F,Economy,0.00
+956,687,8A,Economy,0.00
+957,688,22B,Economy,0.00
+958,688,32A,Economy,0.00
+959,689,35B,Economy,0.00
+960,690,22F,Economy,0.00
+961,691,38B,Economy,0.00
+962,692,32C,Economy,0.00
+963,693,26C,Economy,0.00
+964,694,31A,Economy,0.00
+965,695,11A,Economy,0.00
+966,696,10C,Economy,0.00
+967,696,20A,Economy,0.00
+968,697,11A,"Economy Plus",45.00
+969,697,37E,"Economy Plus",45.00
+970,697,19E,"Economy Plus",45.00
+971,698,15B,Economy,0.00
+972,699,18C,Economy,0.00
+973,700,15B,Economy,0.00
+974,701,26D,Economy,0.00
+975,702,17D,"Economy Plus",25.00
+976,703,12E,Economy,0.00
+977,704,20E,"Economy Plus",25.00
+978,705,19F,Economy,0.00
+979,706,5A,Economy,0.00
+980,707,8F,"Economy Plus",45.00
+981,708,14E,Economy,0.00
+982,708,35C,Economy,0.00
+983,709,8A,Economy,0.00
+984,710,20D,Economy,0.00
+985,711,7E,Economy,0.00
+986,712,38B,Economy,0.00
+987,713,5C,Economy,0.00
+988,713,21F,Economy,0.00
+989,714,17E,Economy,0.00
+990,715,15A,Economy,0.00
+991,716,34A,Economy,0.00
+992,717,16C,Economy,0.00
+993,717,17F,Economy,0.00
+994,718,19F,"Economy Plus",25.00
+995,719,8C,Economy,0.00
+996,720,30F,"Economy Plus",25.00
+997,721,17B,Economy,0.00
+998,722,37D,Business,225.00
+999,722,25D,Business,225.00
+1000,722,11D,Business,225.00

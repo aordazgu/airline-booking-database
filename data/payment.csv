@@ -1,0 +1,1001 @@
+payment_id,booking_id,payment_date,payment_method,amount_paid,payment_status
+1,1,2026-02-05,"Debit Card",455.63,Paid
+2,2,2026-05-19,"Credit Card",362.17,Paid
+3,3,2026-01-09,"Apple Pay",685.98,Paid
+4,4,2026-01-30,"Credit Card",381.37,Paid
+5,5,2026-05-13,"Travel Credit",632.66,Paid
+6,6,2026-02-25,PayPal,656.20,Paid
+7,7,2026-05-15,"Debit Card",22.51,Refunded
+8,8,2026-04-09,"Apple Pay",160.90,Paid
+9,9,2026-03-17,"Apple Pay",194.05,Paid
+10,10,2026-02-01,"Apple Pay",676.44,Paid
+11,11,2026-04-03,PayPal,173.05,Paid
+12,12,2026-04-03,"Debit Card",301.17,Paid
+13,13,2026-02-26,"Credit Card",313.51,Paid
+14,14,2026-03-31,"Debit Card",611.78,Paid
+15,15,2026-02-28,"Credit Card",174.06,Paid
+16,16,2026-05-14,PayPal,243.32,Paid
+17,17,2026-01-24,PayPal,893.31,Paid
+18,18,2026-05-20,"Debit Card",1272.78,Paid
+19,19,2026-01-30,"Apple Pay",96.79,Paid
+20,20,2026-04-10,PayPal,358.20,Paid
+21,21,2026-01-06,"Debit Card",17.83,Refunded
+22,22,2026-04-05,"Apple Pay",0.00,Failed
+23,23,2026-04-14,"Apple Pay",80.47,Refunded
+24,24,2026-01-08,"Travel Credit",0.00,Failed
+25,25,2026-05-20,"Apple Pay",867.84,Paid
+26,26,2026-01-30,"Travel Credit",236.02,Paid
+27,27,2026-04-02,"Apple Pay",206.20,Paid
+28,28,2026-04-21,"Debit Card",228.72,Paid
+29,29,2026-05-20,"Credit Card",430.31,Paid
+30,30,2026-05-07,"Debit Card",199.11,Paid
+31,31,2026-01-21,PayPal,194.94,Paid
+32,32,2026-05-28,"Travel Credit",149.66,Paid
+33,33,2026-02-23,"Apple Pay",321.65,Paid
+34,34,2026-05-19,"Travel Credit",1462.36,Paid
+35,35,2026-04-14,PayPal,319.97,Paid
+36,36,2026-01-08,PayPal,901.69,Paid
+37,37,2026-03-18,"Travel Credit",632.92,Paid
+38,38,2026-03-23,"Apple Pay",528.82,Paid
+39,39,2026-06-02,PayPal,409.51,Paid
+40,40,2026-03-21,"Credit Card",438.78,Paid
+41,41,2026-03-02,PayPal,395.55,Paid
+42,42,2026-01-19,PayPal,963.00,Paid
+43,43,2026-05-29,"Apple Pay",206.66,Paid
+44,44,2026-02-05,"Debit Card",509.28,Paid
+45,45,2026-02-15,"Apple Pay",568.21,Paid
+46,46,2026-02-27,"Apple Pay",1019.93,Paid
+47,47,2026-02-08,"Debit Card",845.03,Paid
+48,48,2026-04-01,PayPal,0.00,Failed
+49,49,2026-03-23,"Debit Card",489.26,Paid
+50,50,2026-04-24,PayPal,161.62,Paid
+51,51,2026-05-26,PayPal,226.41,Paid
+52,52,2026-05-30,"Credit Card",890.99,Paid
+53,53,2026-04-30,"Apple Pay",187.77,Paid
+54,54,2026-05-27,"Apple Pay",572.66,Paid
+55,55,2026-04-21,"Travel Credit",538.61,Paid
+56,56,2026-04-29,PayPal,402.18,Paid
+57,57,2026-03-06,"Travel Credit",217.63,Paid
+58,58,2026-05-11,"Apple Pay",210.45,Paid
+59,59,2026-04-28,"Credit Card",204.47,Paid
+60,60,2026-04-14,"Travel Credit",212.89,Paid
+61,61,2026-04-12,"Apple Pay",93.89,Paid
+62,62,2026-05-20,"Debit Card",1006.11,Paid
+63,63,2026-03-19,"Credit Card",478.15,Paid
+64,64,2026-01-07,"Apple Pay",268.77,Paid
+65,65,2026-02-12,"Apple Pay",241.84,Paid
+66,66,2026-04-18,"Debit Card",826.80,Paid
+67,67,2026-02-21,PayPal,1136.67,Paid
+68,68,2026-02-01,"Travel Credit",284.03,Paid
+69,69,2026-01-27,"Credit Card",1112.18,Paid
+70,70,2026-02-23,"Debit Card",186.25,Paid
+71,71,2026-05-18,"Credit Card",266.80,Paid
+72,72,2026-03-30,"Travel Credit",1466.14,Paid
+73,73,2026-02-08,"Credit Card",426.66,Paid
+74,74,2026-05-18,"Travel Credit",505.42,Paid
+75,75,2026-03-10,"Credit Card",748.32,Paid
+76,76,2026-03-29,"Travel Credit",0.00,Failed
+77,77,2026-02-05,"Credit Card",241.76,Paid
+78,78,2026-04-21,"Apple Pay",220.93,Paid
+79,79,2026-04-19,"Debit Card",111.92,Paid
+80,80,2026-05-04,PayPal,276.04,Paid
+81,81,2026-05-15,PayPal,263.04,Paid
+82,82,2026-02-17,"Travel Credit",215.61,Paid
+83,83,2026-02-05,"Apple Pay",132.97,Paid
+84,84,2026-05-21,"Credit Card",624.62,Paid
+85,85,2026-05-20,"Debit Card",225.27,Paid
+86,86,2026-05-30,"Credit Card",162.06,Paid
+87,87,2026-05-18,PayPal,745.80,Paid
+88,88,2026-01-09,"Debit Card",310.88,Paid
+89,89,2026-05-13,"Debit Card",210.32,Paid
+90,90,2026-01-06,"Debit Card",523.05,Paid
+91,91,2026-01-18,"Credit Card",348.64,Paid
+92,92,2026-02-05,"Travel Credit",765.88,Paid
+93,93,2026-01-03,"Credit Card",173.62,Paid
+94,94,2026-04-07,"Credit Card",614.08,Paid
+95,95,2026-03-14,"Travel Credit",326.14,Paid
+96,96,2026-01-04,"Apple Pay",953.62,Paid
+97,97,2026-04-20,"Travel Credit",323.51,Paid
+98,98,2026-01-08,"Debit Card",0.00,Failed
+99,99,2026-05-02,"Credit Card",356.52,Paid
+100,100,2026-03-22,PayPal,164.80,Paid
+101,101,2026-04-09,"Travel Credit",239.03,Paid
+102,102,2026-01-26,"Debit Card",587.46,Paid
+103,103,2026-05-30,"Debit Card",600.59,Paid
+104,104,2026-01-19,"Debit Card",603.60,Paid
+105,105,2026-04-27,"Credit Card",723.88,Paid
+106,106,2026-01-08,PayPal,193.91,Paid
+107,107,2026-02-26,PayPal,391.64,Paid
+108,108,2026-03-04,PayPal,779.64,Paid
+109,109,2026-04-20,"Travel Credit",0.00,Failed
+110,110,2026-05-31,"Travel Credit",1012.56,Paid
+111,111,2026-02-15,"Apple Pay",321.79,Paid
+112,112,2026-03-22,"Credit Card",341.16,Paid
+113,113,2026-05-13,"Credit Card",435.37,Paid
+114,114,2026-01-22,"Travel Credit",258.27,Paid
+115,115,2026-03-28,PayPal,198.20,Paid
+116,116,2026-04-01,"Travel Credit",337.20,Paid
+117,117,2026-05-01,"Travel Credit",125.87,Paid
+118,118,2026-04-08,"Travel Credit",309.27,Paid
+119,119,2026-05-28,"Debit Card",517.44,Paid
+120,120,2026-03-18,"Apple Pay",213.78,Paid
+121,121,2026-01-20,"Debit Card",920.60,Paid
+122,122,2026-03-28,"Debit Card",721.00,Paid
+123,123,2026-05-27,"Travel Credit",247.62,Paid
+124,124,2026-04-06,"Apple Pay",258.13,Paid
+125,125,2026-02-19,"Travel Credit",191.37,Paid
+126,126,2026-03-04,"Credit Card",441.50,Paid
+127,127,2026-03-12,"Apple Pay",210.87,Paid
+128,128,2026-01-02,"Debit Card",511.49,Paid
+129,129,2026-02-12,"Debit Card",298.53,Paid
+130,130,2026-04-03,"Travel Credit",158.88,Paid
+131,131,2026-01-29,"Debit Card",431.46,Paid
+132,132,2026-02-14,"Apple Pay",1038.81,Paid
+133,133,2026-03-05,PayPal,328.88,Paid
+134,134,2026-01-11,"Credit Card",809.08,Paid
+135,135,2026-05-22,"Apple Pay",978.49,Paid
+136,136,2026-02-14,"Travel Credit",426.44,Paid
+137,137,2026-05-24,"Apple Pay",730.07,Paid
+138,138,2026-02-11,"Credit Card",1369.20,Paid
+139,139,2026-01-12,PayPal,0.00,Failed
+140,140,2026-01-15,"Credit Card",420.01,Paid
+141,141,2026-04-11,"Apple Pay",428.89,Paid
+142,142,2026-03-21,PayPal,370.05,Paid
+143,143,2026-02-14,"Debit Card",528.44,Paid
+144,144,2026-01-31,"Travel Credit",281.70,Paid
+145,145,2026-02-12,PayPal,191.14,Paid
+146,146,2026-01-03,PayPal,353.56,Paid
+147,147,2026-03-31,"Debit Card",0.00,Failed
+148,148,2026-02-01,"Credit Card",262.74,Paid
+149,149,2026-03-26,"Credit Card",687.12,Paid
+150,150,2026-04-10,"Travel Credit",583.44,Paid
+151,151,2026-05-01,"Apple Pay",255.45,Paid
+152,152,2026-03-14,"Apple Pay",470.73,Paid
+153,153,2026-04-09,"Debit Card",446.08,Paid
+154,154,2026-03-22,"Travel Credit",332.74,Paid
+155,155,2026-02-27,"Debit Card",485.71,Paid
+156,156,2026-01-10,"Apple Pay",238.45,Paid
+157,157,2026-03-28,PayPal,88.53,Paid
+158,158,2026-02-12,"Travel Credit",33.35,Refunded
+159,159,2026-01-27,"Apple Pay",352.92,Paid
+160,160,2026-02-07,"Credit Card",320.42,Paid
+161,161,2026-04-02,"Debit Card",19.02,Refunded
+162,162,2026-05-07,PayPal,501.75,Paid
+163,163,2026-04-26,"Credit Card",103.47,Paid
+164,164,2026-02-18,"Debit Card",499.54,Paid
+165,165,2026-05-24,PayPal,282.02,Paid
+166,166,2026-05-22,"Credit Card",672.59,Paid
+167,167,2026-01-13,"Debit Card",477.84,Paid
+168,168,2026-04-27,"Apple Pay",2864.67,Paid
+169,169,2026-02-10,"Credit Card",173.11,Paid
+170,170,2026-03-27,"Travel Credit",90.82,Paid
+171,171,2026-03-20,PayPal,359.36,Paid
+172,172,2026-04-10,"Debit Card",245.51,Paid
+173,173,2026-04-08,"Apple Pay",210.22,Paid
+174,174,2026-03-17,"Credit Card",131.55,Paid
+175,175,2026-03-05,"Debit Card",215.09,Paid
+176,176,2026-05-10,"Credit Card",371.28,Paid
+177,177,2026-04-26,"Debit Card",131.61,Refunded
+178,178,2026-05-19,"Apple Pay",792.58,Paid
+179,179,2026-01-04,"Apple Pay",208.26,Paid
+180,180,2026-03-18,"Debit Card",421.69,Paid
+181,181,2026-04-19,"Travel Credit",861.54,Paid
+182,182,2026-03-03,"Credit Card",544.62,Paid
+183,183,2026-05-09,"Apple Pay",231.41,Paid
+184,184,2026-05-16,PayPal,500.99,Paid
+185,185,2026-04-20,"Debit Card",504.89,Paid
+186,186,2026-04-05,"Debit Card",279.85,Paid
+187,187,2026-04-27,PayPal,247.94,Paid
+188,188,2026-05-25,"Travel Credit",107.65,Refunded
+189,189,2026-05-25,"Travel Credit",66.36,Paid
+190,190,2026-05-17,PayPal,638.43,Paid
+191,191,2026-01-23,"Travel Credit",382.42,Paid
+192,192,2026-02-24,"Apple Pay",209.92,Paid
+193,193,2026-02-07,"Debit Card",121.76,Paid
+194,194,2026-04-13,"Credit Card",340.27,Paid
+195,195,2026-01-28,PayPal,264.88,Paid
+196,196,2026-01-22,"Credit Card",748.34,Paid
+197,197,2026-03-18,PayPal,474.68,Paid
+198,198,2026-03-27,"Apple Pay",654.08,Paid
+199,199,2026-05-04,"Travel Credit",1320.43,Paid
+200,200,2026-03-27,"Debit Card",309.23,Paid
+201,201,2026-01-05,"Credit Card",305.37,Paid
+202,202,2026-02-06,PayPal,892.29,Paid
+203,203,2026-01-22,PayPal,104.93,Paid
+204,204,2026-01-06,PayPal,253.17,Paid
+205,205,2026-05-29,"Travel Credit",580.97,Paid
+206,206,2026-01-20,"Credit Card",292.39,Paid
+207,207,2026-04-03,PayPal,868.41,Paid
+208,208,2026-03-16,"Debit Card",43.32,Refunded
+209,209,2026-06-02,"Travel Credit",419.21,Paid
+210,210,2026-05-14,"Travel Credit",190.27,Paid
+211,211,2026-01-21,PayPal,24.47,Refunded
+212,212,2026-03-18,"Debit Card",192.45,Paid
+213,213,2026-02-02,"Credit Card",0.00,Failed
+214,214,2026-04-16,PayPal,320.16,Paid
+215,215,2026-02-11,"Apple Pay",1476.96,Paid
+216,216,2026-05-21,"Debit Card",260.76,Paid
+217,217,2026-02-24,"Debit Card",497.75,Paid
+218,218,2026-04-20,PayPal,309.15,Paid
+219,219,2026-02-08,"Travel Credit",1170.04,Paid
+220,220,2026-01-05,"Travel Credit",176.80,Paid
+221,221,2026-05-16,"Apple Pay",0.00,Failed
+222,222,2026-03-16,"Apple Pay",1573.00,Paid
+223,223,2026-02-20,"Credit Card",2054.02,Paid
+224,224,2026-04-08,"Apple Pay",276.77,Paid
+225,225,2026-01-16,"Debit Card",325.29,Paid
+226,226,2026-02-02,"Travel Credit",780.88,Paid
+227,227,2026-01-23,"Credit Card",1320.20,Paid
+228,228,2026-01-22,"Credit Card",269.94,Paid
+229,229,2026-04-05,"Apple Pay",117.41,Paid
+230,230,2026-02-12,"Travel Credit",314.49,Paid
+231,231,2026-05-20,"Credit Card",472.69,Paid
+232,232,2026-02-03,"Debit Card",250.56,Paid
+233,233,2026-03-14,"Travel Credit",0.00,Failed
+234,234,2026-04-10,"Credit Card",651.32,Paid
+235,235,2026-02-16,PayPal,203.83,Paid
+236,236,2026-01-05,PayPal,260.62,Paid
+237,237,2026-01-20,"Credit Card",170.48,Paid
+238,238,2026-02-13,"Apple Pay",157.90,Paid
+239,239,2026-05-18,"Apple Pay",244.01,Paid
+240,240,2026-05-23,"Credit Card",223.48,Paid
+241,241,2026-01-28,"Debit Card",0.00,Failed
+242,242,2026-02-07,"Debit Card",741.12,Paid
+243,243,2026-05-03,"Credit Card",561.35,Paid
+244,244,2026-02-27,"Apple Pay",68.44,Paid
+245,245,2026-02-09,PayPal,326.76,Paid
+246,246,2026-02-13,"Debit Card",455.23,Paid
+247,247,2026-04-12,"Travel Credit",192.91,Paid
+248,248,2026-05-18,PayPal,459.47,Paid
+249,249,2026-01-17,"Debit Card",150.24,Paid
+250,250,2026-03-15,"Debit Card",174.39,Paid
+251,251,2026-01-18,"Credit Card",173.18,Paid
+252,252,2026-04-02,"Apple Pay",0.00,Failed
+253,253,2026-03-31,PayPal,0.00,Failed
+254,254,2026-05-13,"Debit Card",560.48,Paid
+255,255,2026-04-09,"Debit Card",893.45,Paid
+256,256,2026-02-10,"Credit Card",198.04,Paid
+257,257,2026-05-07,"Debit Card",261.89,Paid
+258,258,2026-02-21,"Credit Card",1173.19,Paid
+259,259,2026-05-28,PayPal,133.72,Paid
+260,260,2026-04-03,"Travel Credit",306.56,Paid
+261,261,2026-02-04,"Travel Credit",1056.68,Paid
+262,262,2026-01-14,"Credit Card",517.08,Paid
+263,263,2026-01-31,"Travel Credit",170.44,Paid
+264,264,2026-04-24,PayPal,185.70,Paid
+265,265,2026-01-28,"Apple Pay",76.11,Refunded
+266,266,2026-05-29,"Debit Card",427.73,Paid
+267,267,2026-05-11,PayPal,539.70,Paid
+268,268,2026-04-11,"Debit Card",1255.44,Paid
+269,269,2026-02-16,"Apple Pay",716.09,Paid
+270,270,2026-02-04,"Travel Credit",24.20,Refunded
+271,271,2026-01-25,"Debit Card",479.74,Paid
+272,272,2026-05-02,"Apple Pay",590.80,Paid
+273,273,2026-01-14,"Travel Credit",419.64,Paid
+274,274,2026-03-05,PayPal,553.44,Paid
+275,275,2026-01-17,"Debit Card",638.48,Paid
+276,276,2026-01-13,"Apple Pay",167.67,Paid
+277,277,2026-01-05,PayPal,121.19,Paid
+278,278,2026-01-15,"Credit Card",188.93,Paid
+279,279,2026-01-17,"Credit Card",310.44,Paid
+280,280,2026-01-20,PayPal,530.58,Paid
+281,281,2026-04-18,"Debit Card",198.55,Paid
+282,282,2026-04-08,"Apple Pay",1050.33,Paid
+283,283,2026-01-22,"Credit Card",350.65,Paid
+284,284,2026-04-22,"Apple Pay",521.38,Paid
+285,285,2026-03-03,PayPal,421.98,Paid
+286,286,2026-01-06,"Debit Card",523.18,Paid
+287,287,2026-01-15,"Debit Card",145.95,Paid
+288,288,2026-01-15,PayPal,190.98,Paid
+289,289,2026-03-08,PayPal,925.62,Paid
+290,290,2026-01-09,"Debit Card",881.59,Paid
+291,291,2026-03-24,"Credit Card",801.72,Paid
+292,292,2026-01-21,"Debit Card",314.47,Refunded
+293,293,2026-03-24,"Apple Pay",1004.20,Paid
+294,294,2026-03-01,PayPal,417.22,Paid
+295,295,2026-03-24,"Apple Pay",1115.88,Paid
+296,296,2026-01-28,"Debit Card",141.79,Paid
+297,297,2026-03-19,"Travel Credit",947.27,Paid
+298,298,2026-04-29,"Travel Credit",657.66,Paid
+299,299,2026-05-13,PayPal,152.67,Paid
+300,300,2026-03-24,PayPal,266.52,Paid
+301,301,2026-01-26,PayPal,442.24,Paid
+302,302,2026-01-31,PayPal,1370.20,Paid
+303,303,2026-01-10,"Apple Pay",484.18,Paid
+304,304,2026-02-19,"Debit Card",178.06,Paid
+305,305,2026-02-17,"Apple Pay",206.00,Paid
+306,306,2026-04-02,"Apple Pay",226.99,Paid
+307,307,2026-02-16,PayPal,268.63,Paid
+308,308,2026-02-26,PayPal,239.06,Paid
+309,309,2026-01-16,PayPal,173.05,Paid
+310,310,2026-05-19,"Travel Credit",144.18,Paid
+311,311,2026-04-03,"Debit Card",681.22,Paid
+312,312,2026-03-21,PayPal,211.95,Paid
+313,313,2026-01-24,PayPal,223.06,Paid
+314,314,2026-03-25,"Travel Credit",126.38,Paid
+315,315,2026-05-04,"Travel Credit",658.21,Paid
+316,316,2026-01-08,"Travel Credit",230.10,Paid
+317,317,2026-01-23,PayPal,135.99,Paid
+318,318,2026-03-28,PayPal,582.99,Paid
+319,319,2026-05-04,"Travel Credit",588.69,Paid
+320,320,2026-04-14,"Travel Credit",363.84,Paid
+321,321,2026-02-22,"Travel Credit",443.07,Paid
+322,322,2026-03-27,PayPal,128.10,Paid
+323,323,2026-04-22,"Credit Card",745.38,Paid
+324,324,2026-05-14,"Credit Card",575.65,Paid
+325,325,2026-03-02,PayPal,0.00,Failed
+326,326,2026-01-31,"Debit Card",189.81,Paid
+327,327,2026-03-15,"Debit Card",533.78,Paid
+328,328,2026-04-08,"Credit Card",183.05,Paid
+329,329,2026-03-11,"Apple Pay",621.34,Paid
+330,330,2026-04-28,"Credit Card",471.18,Paid
+331,331,2026-01-27,"Apple Pay",995.60,Paid
+332,332,2026-01-18,"Credit Card",1179.43,Paid
+333,333,2026-03-23,"Debit Card",432.56,Paid
+334,334,2026-03-10,"Apple Pay",110.49,Paid
+335,335,2026-05-18,"Apple Pay",329.93,Paid
+336,336,2026-03-26,"Credit Card",197.01,Paid
+337,337,2026-04-02,PayPal,491.90,Paid
+338,338,2026-04-07,"Apple Pay",180.18,Paid
+339,339,2026-03-10,PayPal,239.38,Paid
+340,340,2026-02-06,"Apple Pay",208.03,Paid
+341,341,2026-03-04,"Credit Card",323.74,Paid
+342,342,2026-02-03,PayPal,1052.12,Paid
+343,343,2026-05-11,"Debit Card",358.58,Paid
+344,344,2026-02-08,PayPal,568.84,Paid
+345,345,2026-01-26,PayPal,124.65,Paid
+346,346,2026-03-09,"Travel Credit",223.42,Paid
+347,347,2026-04-09,"Apple Pay",158.79,Paid
+348,348,2026-01-12,"Debit Card",143.27,Paid
+349,349,2026-04-02,"Debit Card",180.45,Paid
+350,350,2026-02-08,PayPal,471.68,Paid
+351,351,2026-02-08,"Credit Card",170.49,Paid
+352,352,2026-04-22,"Debit Card",0.00,Failed
+353,353,2026-05-10,"Travel Credit",114.11,Paid
+354,354,2026-03-24,"Travel Credit",257.97,Paid
+355,355,2026-05-20,"Travel Credit",326.81,Paid
+356,356,2026-01-24,"Apple Pay",427.74,Paid
+357,357,2026-04-09,"Apple Pay",179.54,Paid
+358,358,2026-04-16,PayPal,309.70,Paid
+359,359,2026-04-28,"Travel Credit",617.80,Paid
+360,360,2026-05-28,"Debit Card",594.09,Paid
+361,361,2026-02-05,"Credit Card",502.67,Paid
+362,362,2026-01-09,PayPal,1496.72,Paid
+363,363,2026-05-11,PayPal,238.39,Paid
+364,364,2026-03-29,PayPal,234.83,Paid
+365,365,2026-04-24,PayPal,168.56,Paid
+366,366,2026-04-05,"Debit Card",424.86,Paid
+367,367,2026-03-18,"Apple Pay",185.03,Paid
+368,368,2026-02-13,"Apple Pay",0.00,Failed
+369,369,2026-04-10,"Credit Card",534.82,Paid
+370,370,2026-03-26,"Debit Card",779.46,Paid
+371,371,2026-04-29,"Credit Card",1003.32,Paid
+372,372,2026-01-19,"Travel Credit",79.54,Paid
+373,373,2026-01-30,"Apple Pay",1047.30,Paid
+374,374,2026-02-15,"Apple Pay",218.16,Paid
+375,375,2026-03-25,"Travel Credit",201.28,Paid
+376,376,2026-02-18,"Debit Card",517.59,Paid
+377,377,2026-02-11,PayPal,505.36,Paid
+378,378,2026-03-21,PayPal,161.53,Paid
+379,379,2026-02-06,"Travel Credit",0.00,Failed
+380,380,2026-02-23,"Apple Pay",526.56,Paid
+381,381,2026-03-14,"Apple Pay",82.06,Refunded
+382,382,2026-02-10,PayPal,186.76,Paid
+383,383,2026-04-05,"Credit Card",366.58,Paid
+384,384,2026-02-01,PayPal,251.58,Paid
+385,385,2026-03-29,"Debit Card",503.09,Paid
+386,386,2026-01-19,"Travel Credit",220.82,Paid
+387,387,2026-04-27,"Travel Credit",425.68,Paid
+388,388,2026-03-25,"Travel Credit",374.88,Paid
+389,389,2026-01-11,"Debit Card",243.85,Paid
+390,390,2026-04-03,PayPal,865.78,Paid
+391,391,2026-03-24,PayPal,480.94,Paid
+392,392,2026-03-23,PayPal,331.34,Paid
+393,393,2026-02-06,PayPal,124.87,Paid
+394,394,2026-04-18,"Apple Pay",1746.03,Paid
+395,395,2026-04-06,"Travel Credit",195.28,Paid
+396,396,2026-05-16,"Debit Card",402.48,Paid
+397,397,2026-01-01,"Travel Credit",276.04,Paid
+398,398,2026-02-08,PayPal,296.76,Paid
+399,399,2026-04-29,"Debit Card",531.48,Paid
+400,400,2026-01-06,"Travel Credit",135.41,Paid
+401,401,2026-04-28,"Apple Pay",0.00,Failed
+402,402,2026-01-25,"Travel Credit",193.37,Paid
+403,403,2026-03-17,"Credit Card",570.22,Paid
+404,404,2026-04-02,"Debit Card",591.18,Paid
+405,405,2026-02-12,PayPal,395.75,Paid
+406,406,2026-05-24,"Apple Pay",233.15,Paid
+407,407,2026-02-19,"Credit Card",299.49,Paid
+408,408,2026-03-21,PayPal,171.00,Paid
+409,409,2026-03-13,"Credit Card",225.08,Paid
+410,410,2026-04-03,"Credit Card",312.43,Paid
+411,411,2026-05-07,"Apple Pay",107.59,Paid
+412,412,2026-01-30,"Credit Card",237.32,Paid
+413,413,2026-04-23,"Debit Card",144.02,Paid
+414,414,2026-02-17,PayPal,1390.56,Paid
+415,415,2026-02-15,"Apple Pay",1102.99,Paid
+416,416,2026-04-05,"Apple Pay",426.95,Paid
+417,417,2026-03-09,"Debit Card",195.16,Paid
+418,418,2026-02-09,PayPal,194.17,Paid
+419,419,2026-01-07,"Travel Credit",120.97,Paid
+420,420,2026-04-12,"Debit Card",471.72,Paid
+421,421,2026-05-19,"Travel Credit",843.24,Paid
+422,422,2026-01-16,PayPal,383.06,Paid
+423,423,2026-03-14,"Credit Card",434.99,Paid
+424,424,2026-04-02,"Debit Card",72.47,Paid
+425,425,2026-05-07,PayPal,1021.29,Paid
+426,426,2026-02-15,"Credit Card",732.72,Paid
+427,427,2026-04-11,"Debit Card",128.34,Paid
+428,428,2026-03-30,"Apple Pay",136.87,Paid
+429,429,2026-01-12,"Credit Card",829.32,Paid
+430,430,2026-03-07,"Travel Credit",156.29,Paid
+431,431,2026-05-18,"Apple Pay",135.13,Paid
+432,432,2026-05-06,PayPal,259.59,Paid
+433,433,2026-05-31,"Apple Pay",605.35,Paid
+434,434,2026-05-11,"Apple Pay",273.18,Paid
+435,435,2026-05-28,"Debit Card",232.88,Paid
+436,436,2026-03-01,PayPal,645.93,Paid
+437,437,2026-01-03,"Travel Credit",313.42,Paid
+438,438,2026-02-12,"Credit Card",137.01,Paid
+439,439,2026-05-09,"Travel Credit",304.13,Paid
+440,440,2026-04-25,"Credit Card",301.00,Paid
+441,441,2026-02-09,"Travel Credit",775.60,Paid
+442,442,2026-03-15,"Debit Card",288.21,Paid
+443,443,2026-01-27,"Travel Credit",198.96,Paid
+444,444,2026-01-20,"Travel Credit",331.73,Paid
+445,445,2026-04-05,"Travel Credit",1330.86,Paid
+446,446,2026-03-01,PayPal,0.00,Failed
+447,447,2026-03-26,"Debit Card",448.17,Paid
+448,448,2026-02-06,PayPal,457.84,Paid
+449,449,2026-02-12,"Travel Credit",628.12,Paid
+450,450,2026-01-11,"Debit Card",174.70,Paid
+451,451,2026-02-09,PayPal,26.73,Refunded
+452,452,2026-05-24,"Credit Card",588.44,Paid
+453,453,2026-04-03,"Travel Credit",275.90,Paid
+454,454,2026-04-12,PayPal,643.26,Paid
+455,455,2026-05-12,PayPal,307.21,Paid
+456,456,2026-04-29,"Debit Card",290.43,Paid
+457,457,2026-05-02,"Debit Card",226.54,Paid
+458,458,2026-03-30,"Debit Card",165.48,Paid
+459,459,2026-02-16,"Credit Card",438.28,Paid
+460,460,2026-02-02,"Travel Credit",531.50,Paid
+461,461,2026-05-02,"Debit Card",163.53,Paid
+462,462,2026-02-07,"Travel Credit",311.98,Paid
+463,463,2026-04-16,"Credit Card",486.11,Paid
+464,464,2026-04-01,PayPal,121.16,Paid
+465,465,2026-01-19,"Debit Card",239.69,Paid
+466,466,2026-06-01,"Debit Card",539.32,Paid
+467,467,2026-04-09,"Debit Card",603.58,Paid
+468,468,2026-02-17,"Apple Pay",202.92,Paid
+469,469,2026-05-10,"Debit Card",1213.64,Paid
+470,470,2026-03-21,"Apple Pay",255.22,Paid
+471,471,2026-04-18,"Credit Card",615.29,Paid
+472,472,2026-05-13,"Debit Card",259.86,Paid
+473,473,2026-01-18,"Debit Card",419.84,Paid
+474,474,2026-02-19,"Apple Pay",26.41,Refunded
+475,475,2026-01-04,"Apple Pay",76.43,Paid
+476,476,2026-02-12,"Apple Pay",1416.57,Paid
+477,477,2026-02-07,PayPal,798.94,Paid
+478,478,2026-05-27,PayPal,317.60,Paid
+479,479,2026-04-16,"Debit Card",150.09,Paid
+480,480,2026-02-12,"Apple Pay",650.94,Paid
+481,481,2026-05-12,"Credit Card",133.97,Paid
+482,482,2026-04-05,PayPal,250.71,Paid
+483,483,2026-03-08,"Credit Card",416.36,Paid
+484,484,2026-04-11,"Credit Card",243.36,Paid
+485,485,2026-03-02,"Travel Credit",432.18,Paid
+486,486,2026-03-07,"Debit Card",622.70,Paid
+487,487,2026-01-15,"Debit Card",396.10,Paid
+488,488,2026-01-08,"Travel Credit",741.74,Paid
+489,489,2026-01-13,"Travel Credit",908.67,Paid
+490,490,2026-04-07,PayPal,75.54,Paid
+491,491,2026-03-17,PayPal,126.88,Paid
+492,492,2026-04-30,"Debit Card",522.48,Paid
+493,493,2026-04-13,"Travel Credit",1408.60,Paid
+494,494,2026-04-11,"Apple Pay",358.91,Paid
+495,495,2026-01-19,PayPal,231.55,Paid
+496,496,2026-02-24,PayPal,119.96,Paid
+497,497,2026-03-19,PayPal,406.93,Paid
+498,498,2026-05-02,"Apple Pay",597.62,Paid
+499,499,2026-05-22,"Apple Pay",401.64,Paid
+500,500,2026-01-05,"Apple Pay",777.24,Paid
+501,501,2026-04-27,"Debit Card",380.19,Paid
+502,502,2026-04-10,"Debit Card",526.32,Paid
+503,503,2026-05-26,"Credit Card",109.40,Paid
+504,504,2026-04-22,"Credit Card",116.77,Paid
+505,505,2026-02-12,"Credit Card",302.77,Paid
+506,506,2026-01-12,"Debit Card",241.24,Paid
+507,507,2026-03-06,"Debit Card",292.03,Paid
+508,508,2026-05-12,"Debit Card",271.77,Paid
+509,509,2026-03-11,"Travel Credit",777.68,Paid
+510,510,2026-04-17,"Credit Card",171.79,Paid
+511,511,2026-02-08,"Travel Credit",317.46,Paid
+512,512,2026-04-10,"Debit Card",636.78,Paid
+513,513,2026-02-19,"Debit Card",259.93,Paid
+514,514,2026-04-03,"Apple Pay",408.54,Paid
+515,515,2026-03-12,"Apple Pay",266.92,Paid
+516,516,2026-05-21,"Apple Pay",98.57,Paid
+517,517,2026-04-10,"Apple Pay",286.44,Paid
+518,518,2026-01-11,"Travel Credit",179.29,Paid
+519,519,2026-05-27,"Debit Card",465.42,Paid
+520,520,2026-02-14,"Apple Pay",403.66,Paid
+521,521,2026-05-17,"Apple Pay",906.39,Paid
+522,522,2026-04-16,"Travel Credit",141.09,Paid
+523,523,2026-01-18,"Debit Card",297.82,Paid
+524,524,2026-04-05,PayPal,140.02,Paid
+525,525,2026-02-28,"Credit Card",508.58,Paid
+526,526,2026-01-16,"Credit Card",305.28,Paid
+527,527,2026-01-26,"Debit Card",352.47,Paid
+528,528,2026-01-03,"Debit Card",117.03,Paid
+529,529,2026-04-06,"Debit Card",145.76,Paid
+530,530,2026-03-17,"Travel Credit",232.92,Paid
+531,531,2026-04-14,"Travel Credit",310.18,Paid
+532,532,2026-04-17,"Apple Pay",231.06,Paid
+533,533,2026-02-06,"Apple Pay",112.80,Paid
+534,534,2026-01-16,"Travel Credit",128.81,Paid
+535,535,2026-01-13,PayPal,895.41,Paid
+536,536,2026-04-07,PayPal,735.20,Paid
+537,537,2026-02-06,"Apple Pay",141.38,Paid
+538,538,2026-05-28,PayPal,637.60,Paid
+539,539,2026-02-09,"Credit Card",1924.75,Paid
+540,540,2026-05-20,"Apple Pay",398.23,Paid
+541,541,2026-04-22,"Debit Card",544.27,Paid
+542,542,2026-03-04,"Debit Card",486.05,Paid
+543,543,2026-04-20,"Travel Credit",1300.64,Paid
+544,544,2026-01-12,PayPal,584.85,Paid
+545,545,2026-02-11,"Debit Card",700.38,Paid
+546,546,2026-01-21,"Apple Pay",1437.07,Paid
+547,547,2026-01-10,"Apple Pay",189.66,Paid
+548,548,2026-03-25,"Apple Pay",260.11,Paid
+549,549,2026-05-07,PayPal,770.00,Paid
+550,550,2026-03-31,"Travel Credit",195.62,Paid
+551,551,2026-05-17,"Credit Card",248.39,Paid
+552,552,2026-03-27,"Apple Pay",330.09,Paid
+553,553,2026-03-20,"Credit Card",496.34,Paid
+554,554,2026-05-31,"Apple Pay",434.82,Paid
+555,555,2026-03-26,"Debit Card",775.58,Paid
+556,556,2026-03-13,"Travel Credit",0.00,Failed
+557,557,2026-01-22,"Debit Card",230.94,Paid
+558,558,2026-02-11,"Travel Credit",980.55,Paid
+559,559,2026-04-15,"Debit Card",689.70,Paid
+560,560,2026-01-11,PayPal,345.51,Paid
+561,561,2026-04-29,PayPal,955.60,Paid
+562,562,2026-04-18,"Credit Card",200.28,Refunded
+563,563,2026-01-13,"Travel Credit",1663.40,Paid
+564,564,2026-01-30,"Credit Card",333.81,Paid
+565,565,2026-01-07,"Travel Credit",545.99,Paid
+566,566,2026-03-12,"Travel Credit",300.32,Paid
+567,567,2026-05-31,"Debit Card",182.98,Paid
+568,568,2026-03-06,"Apple Pay",503.51,Paid
+569,569,2026-02-25,"Apple Pay",191.32,Paid
+570,570,2026-02-07,"Debit Card",158.19,Paid
+571,571,2026-04-11,"Travel Credit",488.48,Paid
+572,572,2026-06-01,"Debit Card",301.85,Paid
+573,573,2026-03-04,PayPal,143.47,Paid
+574,574,2026-04-16,"Apple Pay",114.13,Paid
+575,575,2026-01-03,PayPal,215.59,Paid
+576,576,2026-02-22,"Debit Card",412.28,Paid
+577,577,2026-03-27,"Apple Pay",190.98,Paid
+578,578,2026-05-17,"Travel Credit",0.00,Failed
+579,579,2026-02-02,PayPal,0.00,Failed
+580,580,2026-02-13,"Credit Card",530.97,Paid
+581,581,2026-04-02,"Credit Card",213.27,Paid
+582,582,2026-02-17,PayPal,197.65,Paid
+583,583,2026-04-21,"Debit Card",411.90,Paid
+584,584,2026-01-28,"Travel Credit",781.11,Paid
+585,585,2026-05-27,"Apple Pay",638.09,Paid
+586,586,2026-05-19,"Apple Pay",240.88,Paid
+587,587,2026-05-31,"Credit Card",219.59,Paid
+588,588,2026-05-17,"Credit Card",284.96,Paid
+589,589,2026-02-09,"Credit Card",300.60,Paid
+590,590,2026-01-10,"Travel Credit",402.56,Paid
+591,591,2026-02-10,"Credit Card",0.00,Failed
+592,592,2026-02-16,PayPal,331.26,Paid
+593,593,2026-03-04,PayPal,366.94,Paid
+594,594,2026-03-02,"Apple Pay",28.46,Refunded
+595,595,2026-04-15,"Credit Card",167.22,Paid
+596,596,2026-03-12,"Credit Card",702.93,Paid
+597,597,2026-03-10,"Apple Pay",137.89,Paid
+598,598,2026-02-04,PayPal,195.33,Paid
+599,599,2026-04-10,PayPal,752.66,Paid
+600,600,2026-05-23,"Debit Card",272.91,Paid
+601,601,2026-02-25,"Debit Card",161.02,Paid
+602,602,2026-01-29,"Credit Card",230.87,Paid
+603,603,2026-02-22,"Travel Credit",1367.24,Paid
+604,604,2026-01-05,"Apple Pay",1022.44,Paid
+605,605,2026-03-15,"Travel Credit",397.62,Paid
+606,606,2026-02-01,"Apple Pay",133.11,Paid
+607,607,2026-02-13,PayPal,173.36,Paid
+608,608,2026-01-10,"Credit Card",616.65,Paid
+609,609,2026-02-21,"Apple Pay",176.03,Paid
+610,610,2026-03-26,"Apple Pay",852.06,Paid
+611,611,2026-05-26,"Travel Credit",887.92,Paid
+612,612,2026-05-16,"Travel Credit",294.59,Paid
+613,613,2026-05-27,"Travel Credit",275.23,Paid
+614,614,2026-04-18,"Travel Credit",335.30,Paid
+615,615,2026-04-04,"Credit Card",202.65,Paid
+616,616,2026-02-28,"Debit Card",111.11,Paid
+617,617,2026-01-31,"Travel Credit",433.06,Paid
+618,618,2026-05-26,"Debit Card",391.70,Paid
+619,619,2026-03-12,"Debit Card",202.05,Paid
+620,620,2026-02-18,"Apple Pay",867.08,Paid
+621,621,2026-02-28,"Travel Credit",239.03,Paid
+622,622,2026-01-22,"Credit Card",575.64,Paid
+623,623,2026-03-26,PayPal,663.16,Paid
+624,624,2026-01-05,"Travel Credit",181.98,Paid
+625,625,2026-04-01,"Travel Credit",301.18,Paid
+626,626,2026-01-19,"Credit Card",0.00,Failed
+627,627,2026-05-21,"Debit Card",409.24,Paid
+628,628,2026-05-13,PayPal,0.00,Failed
+629,629,2026-01-13,"Apple Pay",172.20,Paid
+630,630,2026-03-08,"Credit Card",365.19,Paid
+631,631,2026-05-07,"Travel Credit",101.54,Paid
+632,632,2026-03-01,"Apple Pay",1415.37,Paid
+633,633,2026-05-08,PayPal,433.10,Paid
+634,634,2026-02-10,"Credit Card",131.98,Paid
+635,635,2026-02-15,"Travel Credit",498.60,Paid
+636,636,2026-05-20,"Debit Card",819.99,Paid
+637,637,2026-03-29,"Debit Card",377.66,Paid
+638,638,2026-05-20,"Apple Pay",295.48,Paid
+639,639,2026-05-17,"Apple Pay",163.74,Paid
+640,640,2026-01-11,"Credit Card",346.50,Paid
+641,641,2026-04-04,PayPal,351.62,Paid
+642,642,2026-03-08,"Travel Credit",368.34,Paid
+643,643,2026-03-11,"Debit Card",1075.62,Paid
+644,644,2026-03-31,PayPal,1003.18,Paid
+645,645,2026-05-05,"Credit Card",379.98,Paid
+646,646,2026-05-05,"Debit Card",192.33,Paid
+647,647,2026-03-21,"Travel Credit",442.09,Paid
+648,648,2026-03-03,"Debit Card",311.83,Paid
+649,649,2026-04-09,"Debit Card",405.30,Paid
+650,650,2026-03-28,PayPal,378.88,Paid
+651,651,2026-05-31,"Debit Card",814.06,Paid
+652,652,2026-01-04,"Credit Card",340.97,Paid
+653,653,2026-03-26,"Travel Credit",489.69,Paid
+654,654,2026-04-10,PayPal,181.86,Paid
+655,655,2026-04-16,"Travel Credit",319.50,Paid
+656,656,2026-01-28,"Credit Card",264.00,Paid
+657,657,2026-01-03,"Apple Pay",143.21,Paid
+658,658,2026-05-13,"Apple Pay",725.58,Paid
+659,659,2026-05-27,"Apple Pay",258.95,Paid
+660,660,2026-05-23,"Travel Credit",227.57,Paid
+661,661,2026-02-17,PayPal,491.31,Paid
+662,662,2026-04-06,"Apple Pay",392.70,Paid
+663,663,2026-02-13,"Apple Pay",188.91,Paid
+664,664,2026-02-19,"Credit Card",93.87,Paid
+665,665,2026-05-08,"Credit Card",160.16,Paid
+666,666,2026-04-06,"Apple Pay",129.34,Paid
+667,667,2026-05-11,"Travel Credit",313.75,Paid
+668,668,2026-01-18,"Debit Card",656.12,Paid
+669,669,2026-06-02,"Debit Card",194.01,Paid
+670,670,2026-01-04,"Debit Card",397.05,Paid
+671,671,2026-01-30,PayPal,332.87,Paid
+672,672,2026-05-16,"Credit Card",617.94,Paid
+673,673,2026-01-06,"Credit Card",302.08,Paid
+674,674,2026-02-19,"Debit Card",480.78,Paid
+675,675,2026-04-27,"Credit Card",2597.76,Paid
+676,676,2026-05-06,"Credit Card",125.30,Paid
+677,677,2026-01-22,"Credit Card",374.72,Paid
+678,678,2026-04-05,PayPal,279.82,Paid
+679,679,2026-03-16,"Credit Card",269.88,Paid
+680,680,2026-02-01,"Apple Pay",465.90,Paid
+681,681,2026-01-24,"Travel Credit",302.81,Paid
+682,682,2026-01-28,PayPal,127.94,Refunded
+683,683,2026-05-18,PayPal,276.08,Paid
+684,684,2026-04-21,"Apple Pay",213.18,Paid
+685,685,2026-04-11,"Credit Card",488.66,Paid
+686,686,2026-04-15,"Credit Card",271.88,Paid
+687,687,2026-03-06,PayPal,436.80,Paid
+688,688,2026-01-19,"Travel Credit",167.77,Paid
+689,689,2026-02-27,"Debit Card",170.07,Paid
+690,690,2026-03-17,"Travel Credit",298.54,Paid
+691,691,2026-05-30,"Apple Pay",261.58,Paid
+692,692,2026-05-13,"Debit Card",337.22,Paid
+693,693,2026-01-30,PayPal,998.24,Paid
+694,694,2026-05-17,"Credit Card",1520.94,Paid
+695,695,2026-01-09,"Credit Card",126.72,Paid
+696,696,2026-04-16,"Apple Pay",757.23,Paid
+697,697,2026-01-14,"Credit Card",160.73,Paid
+698,698,2026-05-22,"Apple Pay",91.22,Paid
+699,699,2026-04-13,"Travel Credit",255.52,Paid
+700,700,2026-01-08,"Travel Credit",128.37,Paid
+701,701,2026-03-05,"Travel Credit",298.78,Paid
+702,702,2026-05-10,"Credit Card",244.28,Paid
+703,703,2026-01-29,"Debit Card",313.28,Paid
+704,704,2026-04-15,"Debit Card",221.50,Paid
+705,705,2026-03-15,"Apple Pay",389.88,Paid
+706,706,2026-01-18,PayPal,320.50,Paid
+707,707,2026-05-15,"Travel Credit",234.64,Paid
+708,708,2026-03-07,"Credit Card",964.17,Paid
+709,709,2026-02-01,PayPal,117.59,Paid
+710,710,2026-01-20,PayPal,271.30,Paid
+711,711,2026-04-16,PayPal,0.00,Failed
+712,712,2026-05-30,PayPal,877.88,Paid
+713,713,2026-04-25,"Credit Card",797.76,Paid
+714,714,2026-04-12,"Debit Card",127.77,Paid
+715,715,2026-03-18,"Travel Credit",466.61,Paid
+716,716,2026-04-11,"Travel Credit",306.82,Paid
+717,717,2026-04-12,"Apple Pay",343.00,Paid
+718,718,2026-03-09,"Apple Pay",903.08,Paid
+719,719,2026-02-28,"Credit Card",492.38,Paid
+720,720,2026-05-24,PayPal,700.28,Paid
+721,721,2026-05-02,"Credit Card",493.10,Paid
+722,722,2026-04-23,"Debit Card",182.96,Paid
+723,723,2026-05-24,"Debit Card",298.46,Paid
+724,724,2026-04-09,PayPal,115.48,Paid
+725,725,2026-01-12,"Debit Card",516.75,Paid
+726,726,2026-05-19,PayPal,78.39,Paid
+727,727,2026-02-03,"Travel Credit",438.23,Paid
+728,728,2026-03-22,"Travel Credit",34.37,Refunded
+729,729,2026-04-10,"Credit Card",467.60,Paid
+730,730,2026-01-29,"Debit Card",75.74,Refunded
+731,731,2026-01-12,"Travel Credit",137.54,Paid
+732,732,2026-05-24,"Credit Card",207.61,Paid
+733,733,2026-03-03,PayPal,236.64,Paid
+734,734,2026-05-31,PayPal,247.90,Paid
+735,735,2026-03-13,"Credit Card",338.90,Paid
+736,736,2026-02-28,"Travel Credit",26.74,Refunded
+737,737,2026-02-20,"Travel Credit",256.77,Paid
+738,738,2026-01-04,PayPal,211.38,Paid
+739,739,2026-04-05,"Credit Card",137.20,Paid
+740,740,2026-04-21,"Travel Credit",280.26,Paid
+741,741,2026-02-07,"Credit Card",333.12,Paid
+742,742,2026-02-06,PayPal,338.00,Paid
+743,743,2026-02-12,"Travel Credit",530.80,Paid
+744,744,2026-01-02,"Debit Card",97.66,Paid
+745,745,2026-03-31,"Travel Credit",551.21,Paid
+746,746,2026-02-13,"Credit Card",1007.22,Paid
+747,747,2026-01-30,"Apple Pay",2427.42,Paid
+748,748,2026-03-23,"Travel Credit",313.69,Paid
+749,749,2026-03-26,"Credit Card",228.00,Paid
+750,750,2026-05-12,"Credit Card",384.55,Paid
+751,751,2026-03-19,"Travel Credit",555.62,Paid
+752,752,2026-03-07,"Travel Credit",1121.37,Paid
+753,753,2026-04-01,"Credit Card",825.08,Paid
+754,754,2026-04-30,PayPal,542.34,Paid
+755,755,2026-01-23,"Debit Card",253.76,Paid
+756,756,2026-02-17,"Debit Card",235.32,Paid
+757,757,2026-02-03,"Apple Pay",179.91,Paid
+758,758,2026-02-25,"Travel Credit",0.00,Failed
+759,759,2026-03-14,PayPal,1853.34,Paid
+760,760,2026-01-19,"Credit Card",81.68,Paid
+761,761,2026-04-10,"Travel Credit",429.36,Paid
+762,762,2026-03-15,"Debit Card",514.08,Paid
+763,763,2026-04-02,"Debit Card",672.60,Paid
+764,764,2026-02-27,"Debit Card",480.07,Paid
+765,765,2026-02-04,"Apple Pay",969.75,Paid
+766,766,2026-03-01,"Travel Credit",787.38,Paid
+767,767,2026-01-03,"Travel Credit",421.90,Paid
+768,768,2026-02-15,PayPal,550.36,Paid
+769,769,2026-04-30,"Travel Credit",331.86,Paid
+770,770,2026-02-26,"Travel Credit",1139.82,Paid
+771,771,2026-02-28,"Debit Card",903.15,Paid
+772,772,2026-03-12,"Credit Card",402.00,Paid
+773,773,2026-02-04,"Apple Pay",179.23,Paid
+774,774,2026-04-14,"Credit Card",277.65,Paid
+775,775,2026-03-20,"Apple Pay",607.84,Paid
+776,776,2026-02-11,"Apple Pay",531.87,Paid
+777,777,2026-02-11,"Credit Card",173.54,Paid
+778,778,2026-04-22,"Debit Card",111.40,Paid
+779,779,2026-02-15,"Debit Card",300.43,Paid
+780,780,2026-05-14,"Apple Pay",509.18,Paid
+781,781,2026-03-03,PayPal,864.43,Paid
+782,782,2026-05-17,"Apple Pay",839.93,Paid
+783,783,2026-03-11,"Travel Credit",716.54,Paid
+784,784,2026-03-20,"Apple Pay",442.48,Paid
+785,785,2026-03-14,"Travel Credit",168.30,Paid
+786,786,2026-03-07,"Apple Pay",388.12,Paid
+787,787,2026-01-27,"Credit Card",31.35,Refunded
+788,788,2026-04-06,PayPal,191.06,Paid
+789,789,2026-05-09,"Apple Pay",607.98,Paid
+790,790,2026-02-05,PayPal,152.74,Paid
+791,791,2026-02-10,"Credit Card",943.83,Paid
+792,792,2026-03-21,PayPal,648.96,Paid
+793,793,2026-02-11,PayPal,275.65,Paid
+794,794,2026-04-02,"Apple Pay",521.19,Paid
+795,795,2026-05-12,"Apple Pay",120.63,Paid
+796,796,2026-02-02,"Travel Credit",182.42,Paid
+797,797,2026-02-17,PayPal,1331.41,Paid
+798,798,2026-04-01,PayPal,521.44,Paid
+799,799,2026-01-16,PayPal,312.17,Paid
+800,800,2026-05-25,"Credit Card",184.24,Paid
+801,801,2026-03-17,"Credit Card",161.70,Paid
+802,802,2026-02-16,"Credit Card",245.61,Paid
+803,803,2026-04-07,PayPal,204.00,Paid
+804,804,2026-04-24,"Apple Pay",17.47,Refunded
+805,805,2026-04-14,"Credit Card",251.10,Paid
+806,806,2026-02-19,"Apple Pay",217.83,Paid
+807,807,2026-03-02,"Credit Card",507.90,Paid
+808,808,2026-01-14,"Credit Card",1627.14,Paid
+809,809,2026-02-06,"Travel Credit",215.50,Paid
+810,810,2026-03-21,"Apple Pay",156.76,Paid
+811,811,2026-04-02,"Credit Card",195.08,Paid
+812,812,2026-05-26,PayPal,114.27,Paid
+813,813,2026-02-12,"Apple Pay",267.57,Paid
+814,814,2026-04-22,"Travel Credit",1150.72,Paid
+815,815,2026-03-12,"Debit Card",245.72,Paid
+816,816,2026-05-03,"Debit Card",82.88,Paid
+817,817,2026-01-03,PayPal,0.00,Failed
+818,818,2026-04-17,"Credit Card",354.12,Paid
+819,819,2026-03-01,"Apple Pay",414.75,Paid
+820,820,2026-01-21,"Debit Card",253.42,Paid
+821,821,2026-05-19,"Debit Card",135.61,Paid
+822,822,2026-04-28,"Credit Card",417.94,Paid
+823,823,2026-03-23,"Credit Card",415.77,Paid
+824,824,2026-02-11,"Travel Credit",194.94,Paid
+825,825,2026-03-02,"Apple Pay",409.61,Paid
+826,826,2026-01-20,PayPal,453.92,Paid
+827,827,2026-03-22,"Debit Card",515.57,Paid
+828,828,2026-02-27,"Travel Credit",426.63,Paid
+829,829,2026-01-29,"Debit Card",163.01,Paid
+830,830,2026-04-24,"Travel Credit",369.70,Paid
+831,831,2026-03-07,"Credit Card",827.64,Paid
+832,832,2026-04-30,"Debit Card",98.48,Refunded
+833,833,2026-02-09,"Apple Pay",187.08,Paid
+834,834,2026-03-08,PayPal,101.97,Paid
+835,835,2026-04-10,"Travel Credit",1661.32,Paid
+836,836,2026-05-12,"Debit Card",433.44,Paid
+837,837,2026-03-24,PayPal,1179.00,Paid
+838,838,2026-01-22,PayPal,242.78,Paid
+839,839,2026-04-18,"Debit Card",246.13,Paid
+840,840,2026-04-17,"Credit Card",121.25,Paid
+841,841,2026-05-22,"Credit Card",128.84,Paid
+842,842,2026-01-23,"Apple Pay",997.02,Paid
+843,843,2026-01-04,"Debit Card",448.92,Paid
+844,844,2026-05-10,"Credit Card",375.73,Paid
+845,845,2026-04-22,"Credit Card",94.83,Paid
+846,846,2026-01-18,"Travel Credit",251.11,Paid
+847,847,2026-03-14,"Apple Pay",91.59,Paid
+848,848,2026-02-13,PayPal,874.67,Paid
+849,849,2026-05-17,"Apple Pay",914.57,Paid
+850,850,2026-03-05,"Credit Card",743.20,Paid
+851,851,2026-05-19,"Travel Credit",271.79,Paid
+852,852,2026-02-11,PayPal,347.59,Paid
+853,853,2026-01-08,"Apple Pay",376.50,Paid
+854,854,2026-04-15,"Debit Card",2069.57,Paid
+855,855,2026-04-27,"Travel Credit",872.10,Paid
+856,856,2026-04-26,"Apple Pay",329.45,Paid
+857,857,2026-05-08,"Apple Pay",254.00,Paid
+858,858,2026-03-05,PayPal,254.20,Paid
+859,859,2026-02-13,"Travel Credit",439.58,Paid
+860,860,2026-01-16,PayPal,194.75,Paid
+861,861,2026-03-20,"Apple Pay",208.15,Paid
+862,862,2026-04-05,"Credit Card",165.18,Paid
+863,863,2026-04-02,"Credit Card",858.92,Paid
+864,864,2026-05-01,PayPal,1656.55,Paid
+865,865,2026-01-11,"Apple Pay",536.31,Paid
+866,866,2026-02-16,PayPal,314.35,Paid
+867,867,2026-03-01,PayPal,531.92,Paid
+868,868,2026-01-27,"Travel Credit",1307.67,Paid
+869,869,2026-03-21,"Apple Pay",660.71,Paid
+870,870,2026-03-12,PayPal,372.30,Paid
+871,871,2026-05-28,"Credit Card",179.05,Paid
+872,872,2026-01-18,"Apple Pay",686.44,Paid
+873,873,2026-05-03,"Debit Card",231.44,Paid
+874,874,2026-03-26,PayPal,160.47,Paid
+875,875,2026-04-09,"Debit Card",701.20,Paid
+876,876,2026-05-28,"Travel Credit",163.13,Paid
+877,877,2026-05-19,PayPal,448.15,Paid
+878,878,2026-05-08,"Travel Credit",445.18,Paid
+879,879,2026-01-21,"Travel Credit",436.48,Paid
+880,880,2026-03-09,"Debit Card",1688.52,Paid
+881,881,2026-05-09,"Credit Card",231.77,Paid
+882,882,2026-05-27,PayPal,206.77,Paid
+883,883,2026-05-12,"Debit Card",1890.54,Paid
+884,884,2026-05-31,"Credit Card",221.55,Paid
+885,885,2026-01-16,"Apple Pay",833.06,Paid
+886,886,2026-04-15,"Travel Credit",407.20,Paid
+887,887,2026-05-28,"Debit Card",504.44,Paid
+888,888,2026-03-29,"Travel Credit",1189.05,Paid
+889,889,2026-04-07,"Credit Card",296.73,Paid
+890,890,2026-04-29,"Credit Card",0.00,Failed
+891,891,2026-05-25,PayPal,342.54,Paid
+892,892,2026-01-31,"Travel Credit",546.74,Paid
+893,893,2026-01-03,"Debit Card",436.88,Paid
+894,894,2026-03-28,PayPal,352.69,Paid
+895,895,2026-05-12,"Travel Credit",162.07,Paid
+896,896,2026-01-30,"Debit Card",373.40,Paid
+897,897,2026-01-11,"Credit Card",384.12,Paid
+898,898,2026-05-08,"Credit Card",188.30,Paid
+899,899,2026-05-24,"Credit Card",391.58,Paid
+900,900,2026-02-24,"Debit Card",671.00,Paid
+901,901,2026-04-15,PayPal,1005.60,Paid
+902,902,2026-04-15,"Apple Pay",27.11,Refunded
+903,903,2026-04-29,"Apple Pay",212.84,Paid
+904,904,2026-02-06,"Travel Credit",227.04,Paid
+905,905,2026-05-21,"Travel Credit",258.60,Paid
+906,906,2026-01-24,"Credit Card",332.55,Paid
+907,907,2026-02-18,"Credit Card",206.16,Paid
+908,908,2026-02-06,"Travel Credit",212.30,Paid
+909,909,2026-01-25,"Credit Card",801.60,Paid
+910,910,2026-01-05,"Travel Credit",213.40,Paid
+911,911,2026-01-23,"Debit Card",316.59,Paid
+912,912,2026-05-19,"Debit Card",657.92,Paid
+913,913,2026-05-06,"Credit Card",70.65,Paid
+914,914,2026-05-15,"Credit Card",252.05,Paid
+915,915,2026-03-07,"Travel Credit",353.12,Paid
+916,916,2026-05-18,"Apple Pay",892.72,Paid
+917,917,2026-01-13,"Debit Card",727.07,Paid
+918,918,2026-05-27,PayPal,0.00,Failed
+919,919,2026-04-17,"Debit Card",72.39,Paid
+920,920,2026-01-14,"Debit Card",1776.30,Paid
+921,921,2026-04-26,"Debit Card",354.86,Paid
+922,922,2026-04-04,"Credit Card",178.06,Paid
+923,923,2026-05-24,PayPal,334.41,Paid
+924,924,2026-04-12,"Travel Credit",741.45,Paid
+925,925,2026-04-29,"Credit Card",759.45,Paid
+926,926,2026-01-10,PayPal,132.91,Paid
+927,927,2026-04-08,PayPal,520.87,Paid
+928,928,2026-04-01,"Apple Pay",514.04,Paid
+929,929,2026-04-01,"Credit Card",647.90,Paid
+930,930,2026-02-11,PayPal,166.47,Paid
+931,931,2026-02-09,"Apple Pay",256.42,Paid
+932,932,2026-03-08,"Travel Credit",332.56,Paid
+933,933,2026-02-22,"Travel Credit",214.92,Paid
+934,934,2026-03-16,PayPal,533.82,Paid
+935,935,2026-03-15,"Travel Credit",414.64,Paid
+936,936,2026-01-14,"Debit Card",0.00,Failed
+937,937,2026-05-10,PayPal,357.74,Paid
+938,938,2026-05-31,"Apple Pay",430.75,Paid
+939,939,2026-01-03,"Travel Credit",339.80,Paid
+940,940,2026-05-03,"Debit Card",55.87,Refunded
+941,941,2026-03-28,"Travel Credit",163.67,Paid
+942,942,2026-04-02,"Apple Pay",447.75,Paid
+943,943,2026-04-14,"Debit Card",313.78,Paid
+944,944,2026-03-26,PayPal,653.08,Paid
+945,945,2026-02-10,"Debit Card",349.76,Paid
+946,946,2026-01-03,"Credit Card",932.45,Paid
+947,947,2026-01-19,"Credit Card",3468.84,Paid
+948,948,2026-03-13,"Debit Card",151.69,Paid
+949,949,2026-03-28,"Travel Credit",494.45,Paid
+950,950,2026-05-25,"Apple Pay",119.38,Paid
+951,951,2026-02-09,"Credit Card",492.92,Paid
+952,952,2026-05-09,"Apple Pay",849.00,Paid
+953,953,2026-03-21,PayPal,82.37,Refunded
+954,954,2026-04-12,"Apple Pay",546.14,Paid
+955,955,2026-02-24,"Travel Credit",387.55,Paid
+956,956,2026-03-03,"Apple Pay",462.72,Paid
+957,957,2026-03-07,"Apple Pay",213.24,Paid
+958,958,2026-01-20,"Apple Pay",1049.44,Paid
+959,959,2026-04-07,"Debit Card",622.04,Paid
+960,960,2026-04-07,"Debit Card",2008.77,Paid
+961,961,2026-04-14,"Debit Card",578.39,Paid
+962,962,2026-02-19,"Credit Card",409.64,Paid
+963,963,2026-02-28,"Debit Card",0.00,Failed
+964,964,2026-05-09,PayPal,986.34,Paid
+965,965,2026-02-23,"Credit Card",396.55,Paid
+966,966,2026-01-13,"Debit Card",315.91,Paid
+967,967,2026-01-09,PayPal,202.99,Paid
+968,968,2026-01-12,"Travel Credit",412.13,Paid
+969,969,2026-05-23,"Debit Card",630.58,Paid
+970,970,2026-05-18,"Debit Card",1003.76,Paid
+971,971,2026-05-08,"Travel Credit",408.75,Paid
+972,972,2026-04-26,"Credit Card",717.92,Paid
+973,973,2026-02-06,PayPal,1233.10,Paid
+974,974,2026-02-06,"Travel Credit",397.17,Paid
+975,975,2026-02-02,"Credit Card",210.62,Paid
+976,976,2026-05-19,PayPal,175.19,Paid
+977,977,2026-01-17,"Travel Credit",324.69,Paid
+978,978,2026-03-25,"Debit Card",301.67,Paid
+979,979,2026-03-25,"Apple Pay",325.49,Paid
+980,980,2026-03-19,"Credit Card",286.88,Paid
+981,981,2026-05-27,PayPal,150.46,Paid
+982,982,2026-01-16,"Debit Card",127.26,Refunded
+983,983,2026-04-05,"Apple Pay",284.21,Paid
+984,984,2026-01-06,"Apple Pay",293.81,Paid
+985,985,2026-02-26,"Debit Card",178.85,Paid
+986,986,2026-02-28,"Debit Card",380.28,Paid
+987,987,2026-02-22,"Travel Credit",339.02,Paid
+988,988,2026-05-04,"Debit Card",920.57,Paid
+989,989,2026-02-14,PayPal,347.64,Paid
+990,990,2026-02-20,"Apple Pay",232.50,Paid
+991,991,2026-02-06,"Debit Card",177.37,Paid
+992,992,2026-03-30,"Credit Card",248.38,Paid
+993,993,2026-04-22,"Apple Pay",504.44,Paid
+994,994,2026-04-02,PayPal,282.00,Paid
+995,995,2026-01-24,"Credit Card",261.23,Paid
+996,996,2026-04-27,"Apple Pay",382.13,Paid
+997,997,2026-04-25,"Debit Card",145.56,Paid
+998,998,2026-04-18,"Travel Credit",91.90,Paid
+999,999,2026-03-28,"Travel Credit",230.51,Paid
+1000,1000,2026-05-10,"Apple Pay",677.29,Paid

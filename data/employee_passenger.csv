@@ -1,0 +1,11 @@
+passenger_id,employee_number,job_title,hire_date,airline_id
+16,EMP-DL-0001,Pilot,2010-03-15,1
+17,EMP-DL-0002,"Flight Attendant",2015-06-01,1
+18,EMP-UA-0001,Pilot,2008-11-20,2
+19,EMP-UA-0002,"Flight Attendant",2018-02-14,2
+20,EMP-AA-0001,Co-Pilot,2013-07-30,3
+21,EMP-AA-0002,"Flight Attendant",2020-01-10,3
+22,EMP-WN-0001,Pilot,2011-09-05,4
+23,EMP-WN-0002,"Flight Attendant",2017-04-22,4
+24,EMP-AS-0001,Co-Pilot,2016-08-18,5
+25,EMP-AS-0002,"Flight Attendant",2019-12-03,5
