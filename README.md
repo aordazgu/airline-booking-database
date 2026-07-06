@@ -34,7 +34,7 @@ This project builds a MySQL database for an airline booking platform. It covers 
 | `queries.sql` | Analytical queries: 7 final graded queries, plus 15 exploratory ones |
 | `load_database.py` | Python script that builds the schema and loads the CSV data |
 | `data/` | 14 CSV files, one per table |
-| `docs/` | ERD and design notes (optional) |
+| `docs/` | ERD and design notes |
 
 ## Queries
 
