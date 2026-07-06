@@ -28,13 +28,10 @@ The `data/` folder contains 14 CSV files with sample data, including 1,000+ cust
 
 ## Analytical Queries
 
-The project includes 5 queries that span multiple tables and use grouping and subqueries:
+`queries.sql` has two parts:
 
-1. Total revenue by route (GROUP BY + SUM across 7 tables)
-2. Pilot who has flown the most flights (GROUP BY + COUNT filtered on employee subtype)
-3. Customers with no confirmed booking (NOT EXISTS correlated subquery)
-4. Customers who spent above the average payment amount (scalar subquery in HAVING)
-5. Average spending by customers with children (derived table + IN subquery)
+1. **Final graded queries (7)** - the exact queries submitted for grading, with confirmed output. Covers total revenue by route, pilot with the most flights, flight occupancy, average passenger age, seat lookups, and ticket price comparisons.
+2. **Exploratory queries (15)** - the fuller set of queries drafted while building the project, including subqueries on customer spending and route revenue.
 
 ## How to Run
 
@@ -59,11 +56,11 @@ The project includes 5 queries that span multiple tables and use grouping and su
 
 ```
 airline-booking-database/
-├── airline_booking.sql     # CREATE TABLE statements for all 13 tables
-├── queries.sql             # 5 analytical queries
-├── load_database.py        # Python CSV loader
-├── data/                   # 14 sample data CSV files
-└── docs/                   # ERD and design documentation (optional)
+├── airline_booking_schema.sql   # CREATE TABLE statements for all 13 tables
+├── queries.sql                  # analytical queries (final graded + exploratory)
+├── load_database.py             # Python CSV loader
+├── data/                        # 14 sample data CSV files
+└── docs/                        # ERD and design documentation (optional)
 ```
 
 ## Team
