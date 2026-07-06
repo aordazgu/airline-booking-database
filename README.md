@@ -1,70 +1,95 @@
-# Airline Booking Database
+# BUS 393 Final Project: Airline Booking Database
 
-A relational database design for an Expedia-style airline booking platform. Built in MySQL for BUS 393 (Database Management Systems) at Cal Poly San Luis Obispo.
+**Team:** Christina Balingit, Maya V. Karl, Marshall Moore, Arturo Ordaz-Gutiérrez, Courtney Yuen
 
-The database covers the full booking process: a customer creates a booking, passengers are assigned to flights, seats and luggage are added, and payment is recorded.
+## Overview
 
-## Schema Overview
+This project builds a MySQL database for an airline booking platform. It covers the full booking process: a customer makes a booking, passengers get assigned to flights, seats and luggage get added, and payment gets recorded. The database has 13 tables and includes a passenger supertype/subtype hierarchy, a ternary relationship, and a self-referencing customer table.
 
-The database has 13 tables covering customers, airlines, airports, routes, flights, bookings, passengers, payments, luggage, and seat assignments.
+## Design Questions
 
-Design features:
+**Primary:** How do you model a booking system where one ticket ties together a specific passenger, a specific flight, and a specific booking, while keeping the data normalized?
 
-- **Passenger supertype/subtype hierarchy.** A `passenger` supertype with three disjoint subtypes: `adult_passenger`, `minor_passenger`, and `employee_passenger`. Subtype membership is enforced with a `CHECK` constraint on `passenger_type`, and each subtype's `passenger_id` is both its primary key and a foreign key back to the supertype.
-- **Ternary associative entity.** `booking_flight` links exactly one booking, one flight, and one passenger, so the database can answer who flew on which flight under which booking.
-- **Unary relationship.** A self-referencing `referred_by` foreign key on `customer` tracks customer referrals.
-- **Normalized structure.** Routes are a directional pairing of origin and destination airports, and flights are scheduled trips operated by an airline on a route.
+**Secondary:** How do you handle passengers who are different types (adult, minor, employee) without repeating a bunch of nullable columns in one table?
 
-## Sample Data
+## Methods
 
-The `data/` folder contains 14 CSV files with sample data, including 1,000+ customers, 300 flights, and 2,100+ booking-flight records.
+- **Schema:** 13 tables covering customers, airlines, airports, routes, flights, bookings, passengers, payments, luggage, and seat assignments
+- **Passenger hierarchy:** One `passenger` supertype with three disjoint subtypes, `adult_passenger`, `minor_passenger`, `employee_passenger`, enforced with a `CHECK` constraint
+- **Ternary relationship:** `booking_flight` links one booking, one flight, and one passenger; each row is one ticket
+- **Unary relationship:** a self-referencing `referred_by` foreign key on `customer` tracks referrals
+- **Data load:** a Python script reads 14 CSV files and loads them into MySQL in foreign-key order
 
-`load_database.py` loads the CSVs into MySQL. It:
+## Key Design Decisions
 
-- creates the schema from `airline_booking.sql`
-- loads each CSV in foreign-key dependency order using parameterized `INSERT IGNORE` statements
-- converts empty and "NULL" values to real SQL NULLs
-- prints row counts for all tables to verify the load
+- Removed a separate `referral` entity that had no real attributes of its own; collapsed it into the `referred_by` column on `customer`
+- Replaced one flat passenger table with 7 mostly-null columns with a proper supertype/subtype split, so every column is always meaningful
+- All tables are in third normal form; no partial or transitive dependencies
 
-## Analytical Queries
+## Project Structure
 
-`queries.sql` has two parts:
+| File | Purpose |
+|------|---------|
+| `airline_booking_schema.sql` | CREATE TABLE statements for all 13 tables |
+| `queries.sql` | Analytical queries: 7 final graded queries, plus 15 exploratory ones |
+| `load_database.py` | Python script that builds the schema and loads the CSV data |
+| `data/` | 14 CSV files, one per table |
+| `docs/` | ERD and design notes (optional) |
 
-1. **Final graded queries (7)** - the exact queries submitted for grading, with confirmed output. Covers total revenue by route, pilot with the most flights, flight occupancy, average passenger age, seat lookups, and ticket price comparisons.
-2. **Exploratory queries (15)** - the fuller set of queries drafted while building the project, including subqueries on customer spending and route revenue.
+## Queries
 
-## How to Run
+`queries.sql` has two parts.
 
-1. Install MySQL and Python 3.
-2. Install the connector:
-   ```
-   pip3 install mysql-connector-python
-   ```
-3. Set your MySQL credentials as environment variables (or edit the config section of `load_database.py`):
-   ```
-   export DB_HOST=localhost
-   export DB_USER=root
-   export DB_PASSWORD=your_password
-   ```
-4. Run the loader:
-   ```
-   python3 load_database.py
-   ```
-5. Run the queries in `queries.sql` against the `airline_booking` database.
+**Final graded queries (7):** the exact queries submitted for grading, with confirmed output. These cover total revenue by route, the pilot with the most flights, flight occupancy, average passenger age, seat lookups, and ticket price comparisons.
 
-## Repository Structure
+**Exploratory queries (15):** the fuller set drafted while building the project. These include subqueries on customer spending and route revenue.
 
+Example, total revenue by route:
+
+```sql
+SELECT orig.airport_code AS origin, dest.airport_code AS destination,
+    SUM(p.amount_paid) AS total_revenue
+FROM payment p
+    JOIN booking b
+    JOIN booking_flight bf
+    JOIN flight f
+    JOIN route r
+    JOIN airport orig
+    JOIN airport dest
+ON p.booking_id = b.booking_id
+    AND b.booking_id = bf.booking_id
+    AND bf.flight_id = f.flight_id
+    AND f.route_id = r.route_id
+    AND r.origin_airport_id = orig.airport_id
+    AND r.destination_airport_id = dest.airport_id
+WHERE p.payment_status = 'Paid'
+GROUP BY orig.airport_code, dest.airport_code
+ORDER BY total_revenue DESC;
 ```
-airline-booking-database/
-├── airline_booking_schema.sql   # CREATE TABLE statements for all 13 tables
-├── queries.sql                  # analytical queries (final graded + exploratory)
-├── load_database.py             # Python CSV loader
-├── data/                        # 14 sample data CSV files
-└── docs/                        # ERD and design documentation (optional)
-```
 
-## Team
+## Implementation
 
-Group project by Arturo Ordaz-Gutiérrez, Christina Balingit, Maya V. Karl, Marshall Moore, and Courtney Yuen.
+- `VARCHAR` and `DATE` for names, emails, and dates
+- `DECIMAL(10,2)` for all monetary values: ticket prices, fees, payments
+- `AUTO_INCREMENT` on all primary keys
+- `CHECK` constraint on `passenger_type` to enforce the disjoint subtype rule
+- `DEFAULT NULL` on `referred_by` and `customer_id` for optional foreign keys
+- `INSERT IGNORE` in the loader so re-running the script doesn't throw duplicate key errors
+- Foreign key checks disabled during load, then re-enabled, so load order is more flexible
 
-Arturo's contributions: schema design changes (subtype hierarchy, ternary booking_flight, unary referral FK), the Python CSV loader, and query development.
+## Requirements
+
+- MySQL
+- Python 3
+- `mysql-connector-python`
+
+## Notes
+
+- Sample data: 1,000+ customers, 300 flights, 2,100+ booking-flight records
+- Passenger table has 25 rows split across the three subtypes: 12 adult, 3 minor, 10 employee
+- Set your MySQL credentials as environment variables before running the loader:
+  ```
+  export DB_HOST=localhost
+  export DB_USER=root
+  export DB_PASSWORD=your_password
+  ```
